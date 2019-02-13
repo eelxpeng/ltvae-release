@@ -1,0 +1,33 @@
+# ignore datasets
+**/dataset
+data
+
+# ignore .pyc
+*.pyc
+.DS_Store
+
+# ignore results/
+**/results
+**/output
+**/tmp
+
+# ignore jar file
+*.jar
+*.mat
+*.bin
+*.pth
+
+# ignore models
+*.pt
+*.bif
+*.h5
+*.json
+*.arff
+*.npz
+*.npy
+
+# ignore image files
+*.jpg
+*.png
+# ignore run-* bash and output
+.project

@@ -1,0 +1,13 @@
+2019-02-13 15:10:57,267 [INFO]: =====Initialize Gaussian Mixtures=======
+2019-02-13 15:11:01,596 [INFO]: Averaged loglikelihood: -44.990692, n_iter: 4
+2019-02-13 15:11:01,657 [INFO]: acc: 0.63277, nmi: 0.61976
+2019-02-13 15:11:01,691 [INFO]: =====Finetuning=======
+2019-02-13 15:11:03,552 [INFO]: #Epoch   1: Loss: 20231.416, Recon Loss: 17110.691, Cluster Loss: 3675.713, Entropy Loss: -554.987
+2019-02-13 15:11:05,377 [INFO]: #Epoch   2: Loss: 18981.291, Recon Loss: 16360.097, Cluster Loss: 2900.944, Entropy Loss: -279.751
+2019-02-13 15:11:07,218 [INFO]: #Epoch   3: Loss: 18845.334, Recon Loss: 16353.508, Cluster Loss: 2748.672, Entropy Loss: -256.840
+2019-02-13 15:11:09,001 [INFO]: #Epoch   4: Loss: 18770.033, Recon Loss: 16355.126, Cluster Loss: 2683.986, Entropy Loss: -269.075
+2019-02-13 15:11:10,779 [INFO]: #Epoch   5: Loss: 18720.838, Recon Loss: 16371.295, Cluster Loss: 2643.952, Entropy Loss: -294.410
+2019-02-13 15:11:12,551 [INFO]: #Epoch   6: Loss: 18672.525, Recon Loss: 16364.358, Cluster Loss: 2631.670, Entropy Loss: -323.504
+2019-02-13 15:11:14,300 [INFO]: #Epoch   7: Loss: 18624.098, Recon Loss: 16353.400, Cluster Loss: 2617.561, Entropy Loss: -346.862
+2019-02-13 15:11:16,089 [INFO]: #Epoch   8: Loss: 18606.396, Recon Loss: 16385.826, Cluster Loss: 2607.366, Entropy Loss: -386.801
+2019-02-13 15:11:17,914 [INFO]: #Epoch   9: Loss: 18585.268, Recon Loss: 16395.578, Cluster Loss: 2604.631, Entropy Loss: -414.932
