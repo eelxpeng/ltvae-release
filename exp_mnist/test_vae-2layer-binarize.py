@@ -22,6 +22,8 @@ if __name__ == "__main__":
                         help='number of epochs to train (default: 10)')
     parser.add_argument('--pretrain', type=str, default="", metavar='N',
                     help='number of epochs to train (default: 10)')
+    parser.add_argument('--save', type=str, default="", metavar='N',
+                    help='number of epochs to train (default: 10)')
     args = parser.parse_args()
     
     train_loader = torch.utils.data.DataLoader(
@@ -38,4 +40,5 @@ if __name__ == "__main__":
     
     vae.fit(train_loader, test_loader, lr=args.lr, batch_size=args.batch_size,
         num_epochs=args.epochs, anneal=True)
-    vae.save_model("model/vae-binarized.pt")
+    if args.save != "":
+        vae.save_model(args.save)
