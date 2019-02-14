@@ -1,0 +1,6 @@
+2019-02-14 10:04:41,786 [INFO]: Loading pretrain from model/vae-binarized.pt...
+2019-02-14 10:04:49,284 [INFO]: Initial # cluster: 10, acc: 0.76370, nmi: 0.63669
+2019-02-14 10:04:49,295 [INFO]: LTVAE training for for first 10 epochs...
+2019-02-14 10:06:55,875 [INFO]: #Epoch   0: Train Loss: 89.14574, dataloglikelihood: 62.14265, zloglikelihood: 28.68923, qentropy: -1.68616
+2019-02-14 10:08:56,199 [INFO]: #Epoch   1: Train Loss: 89.10374, dataloglikelihood: 62.19403, zloglikelihood: 28.85039, qentropy: -1.94062
+2019-02-14 10:10:55,948 [INFO]: #Epoch   2: Train Loss: 89.03975, dataloglikelihood: 62.14664, zloglikelihood: 28.96560, qentropy: -2.07247

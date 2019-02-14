@@ -16,6 +16,6 @@ python evaluate_iwae-2layer.py --model model/iwae-binarized-run-$RUNID.pt
 
 # train and evaluate GMMVAE
 echo "####train and evaluate GMMVAE"
-python test_gmmvae_fixed_var_binarize.py --lr 0.001 --lr-stepwise 0.01 --epochs 500 --pretrain model/vae-2layer-binarized-run-$RUNID.pt --save model/gmmvae-binarized-run-$RUNID
+python test_gmmvae_fixed_var_binarize.py --lr 0.001 --lr-stepwise 0.01 --epochs 500 --pretrain model/iwae-binarized-run-$RUNID.pt --save model/gmmvae-binarized-run-$RUNID
 python evaluate_gmmvae-binarize.py --model model/gmmvae-binarized-run-$RUNID
 

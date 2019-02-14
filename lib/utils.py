@@ -71,6 +71,59 @@ def saveToArff(data, name, varNames, outpath):
         writePreamble(writer, name, varNames)
         writeInstances(writer, data)
 
+def saveToBif(path, netName, varNames, weights, means, covariances):
+    def writeNetworkDeclaration(netName, writer):
+        writer.write('network "%s" {\n}\n' % netName)
+        writer.write('\n')
+
+    def writeContinuousVariables(varNames, writer):
+        for variable in varNames:
+            writer.write('variable "%s" {\n' % variable)
+            writer.write('\ttype continuous;\n')
+            writer.write('}\n\n')
+
+    def writeDiscreteVariable(varName, num_states, writer):
+        states = ['state%d' % state for state in range(num_states)]
+        writer.write('variable "%s" {\n' % varName)
+        writer.write('\ttype discrete[%d] { ' % num_states)
+        for state in states:
+            writer.write('"%s" ' % state)
+        writer.write("};\n")
+        writer.write('}\n\n')
+
+    def writeRootProbabilities(varName, weights, writer):
+        writer.write("probability (")
+        writer.write('"%s"' % varName)
+        writer.write(') {\n')
+        writer.write("\ttable ");
+        writer.write(" ".join([str(x) for x in weights]))
+        writer.write(";\n")
+        writer.write('}\n\n')
+
+    def writeConditionalProbabilities(parName, varNames, means, covariances):
+        k, d = means.shape
+        for j in range(d):
+            writer.write("probability (")
+            writer.write('"%s"' % varNames[j])
+            writer.write(" | ")
+            writer.write('"%s"' % parName)
+            writer.write(') {\n')
+            for i in range(k):
+                writer.write('\t("state%d") ' % i)
+                writer.write(str(means[i, j]))
+                writer.write(' ')
+                writer.write(str(covariances[i, j]))
+                writer.write(';\n')
+            writer.write('}\n\n')
+
+    k, d = means.shape
+    with open(path, "w") as writer:
+        writeNetworkDeclaration(netName, writer)
+        writeDiscreteVariable("y", k, writer)
+        writeContinuousVariables(varNames, writer)
+        writeRootProbabilities("y", weights, writer)
+        writeConditionalProbabilities("y", varNames, means, covariances)
+        
 def masking_noise(data, frac):
     """
     data: Tensor

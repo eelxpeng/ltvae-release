@@ -1,0 +1,554 @@
+2019-02-13 17:45:50,435 [INFO]: =====Initialize Gaussian Mixtures=======
+2019-02-13 17:45:55,647 [INFO]: Averaged loglikelihood: -26.393094, n_iter: 8
+2019-02-13 17:45:55,706 [INFO]: acc: 0.72768, nmi: 0.59526
+2019-02-13 17:45:55,741 [INFO]: =====Finetuning=======
+2019-02-13 17:45:57,615 [INFO]: #Epoch   1: Loss: 73.059, Recon Loss: 65.344, Cluster Loss: 8.638, Entropy Loss: -0.923
+2019-02-13 17:45:59,454 [INFO]: #Epoch   2: Loss: 72.381, Recon Loss: 65.069, Cluster Loss: 8.891, Entropy Loss: -1.579
+2019-02-13 17:46:01,318 [INFO]: #Epoch   3: Loss: 71.956, Recon Loss: 65.037, Cluster Loss: 9.006, Entropy Loss: -2.088
+2019-02-13 17:46:03,162 [INFO]: #Epoch   4: Loss: 71.568, Recon Loss: 64.933, Cluster Loss: 9.125, Entropy Loss: -2.489
+2019-02-13 17:46:05,030 [INFO]: #Epoch   5: Loss: 71.354, Recon Loss: 64.941, Cluster Loss: 9.212, Entropy Loss: -2.799
+2019-02-13 17:46:06,931 [INFO]: #Epoch   6: Loss: 71.167, Recon Loss: 64.896, Cluster Loss: 9.299, Entropy Loss: -3.028
+2019-02-13 17:46:08,810 [INFO]: #Epoch   7: Loss: 71.003, Recon Loss: 64.855, Cluster Loss: 9.380, Entropy Loss: -3.232
+2019-02-13 17:46:10,657 [INFO]: #Epoch   8: Loss: 70.835, Recon Loss: 64.847, Cluster Loss: 9.450, Entropy Loss: -3.461
+2019-02-13 17:46:12,488 [INFO]: #Epoch   9: Loss: 70.755, Recon Loss: 64.850, Cluster Loss: 9.495, Entropy Loss: -3.590
+2019-02-13 17:46:14,328 [INFO]: #Epoch  10: Loss: 70.685, Recon Loss: 64.838, Cluster Loss: 9.540, Entropy Loss: -3.693
+2019-02-13 17:46:14,406 [INFO]: acc: 0.78250, nmi: 0.67092
+2019-02-13 17:46:16,245 [INFO]: #Epoch  11: Loss: 70.582, Recon Loss: 64.837, Cluster Loss: 9.598, Entropy Loss: -3.853
+2019-02-13 17:46:18,122 [INFO]: #Epoch  12: Loss: 70.422, Recon Loss: 64.706, Cluster Loss: 9.634, Entropy Loss: -3.918
+2019-02-13 17:46:19,899 [INFO]: #Epoch  13: Loss: 70.460, Recon Loss: 64.781, Cluster Loss: 9.664, Entropy Loss: -3.985
+2019-02-13 17:46:21,705 [INFO]: #Epoch  14: Loss: 70.313, Recon Loss: 64.741, Cluster Loss: 9.691, Entropy Loss: -4.119
+2019-02-13 17:46:23,502 [INFO]: #Epoch  15: Loss: 70.274, Recon Loss: 64.709, Cluster Loss: 9.722, Entropy Loss: -4.156
+2019-02-13 17:46:25,302 [INFO]: #Epoch  16: Loss: 70.200, Recon Loss: 64.698, Cluster Loss: 9.749, Entropy Loss: -4.247
+2019-02-13 17:46:27,109 [INFO]: #Epoch  17: Loss: 70.224, Recon Loss: 64.765, Cluster Loss: 9.760, Entropy Loss: -4.301
+2019-02-13 17:46:28,978 [INFO]: #Epoch  18: Loss: 70.065, Recon Loss: 64.611, Cluster Loss: 9.796, Entropy Loss: -4.342
+2019-02-13 17:46:30,814 [INFO]: #Epoch  19: Loss: 70.079, Recon Loss: 64.645, Cluster Loss: 9.790, Entropy Loss: -4.356
+2019-02-13 17:46:32,599 [INFO]: #Epoch  20: Loss: 70.041, Recon Loss: 64.676, Cluster Loss: 9.813, Entropy Loss: -4.447
+2019-02-13 17:46:32,671 [INFO]: acc: 0.80460, nmi: 0.71278
+2019-02-13 17:46:34,505 [INFO]: #Epoch  21: Loss: 69.854, Recon Loss: 64.459, Cluster Loss: 9.846, Entropy Loss: -4.451
+2019-02-13 17:46:36,344 [INFO]: #Epoch  22: Loss: 69.784, Recon Loss: 64.395, Cluster Loss: 9.856, Entropy Loss: -4.467
+2019-02-13 17:46:38,233 [INFO]: #Epoch  23: Loss: 69.707, Recon Loss: 64.377, Cluster Loss: 9.873, Entropy Loss: -4.543
+2019-02-13 17:46:40,056 [INFO]: #Epoch  24: Loss: 69.763, Recon Loss: 64.465, Cluster Loss: 9.878, Entropy Loss: -4.579
+2019-02-13 17:46:41,888 [INFO]: #Epoch  25: Loss: 69.636, Recon Loss: 64.359, Cluster Loss: 9.893, Entropy Loss: -4.616
+2019-02-13 17:46:43,679 [INFO]: #Epoch  26: Loss: 69.673, Recon Loss: 64.398, Cluster Loss: 9.897, Entropy Loss: -4.621
+2019-02-13 17:46:45,539 [INFO]: #Epoch  27: Loss: 69.648, Recon Loss: 64.408, Cluster Loss: 9.909, Entropy Loss: -4.669
+2019-02-13 17:46:47,429 [INFO]: #Epoch  28: Loss: 69.659, Recon Loss: 64.426, Cluster Loss: 9.899, Entropy Loss: -4.666
+2019-02-13 17:46:49,343 [INFO]: #Epoch  29: Loss: 69.558, Recon Loss: 64.350, Cluster Loss: 9.925, Entropy Loss: -4.717
+2019-02-13 17:46:51,400 [INFO]: #Epoch  30: Loss: 69.622, Recon Loss: 64.405, Cluster Loss: 9.926, Entropy Loss: -4.709
+2019-02-13 17:46:51,483 [INFO]: acc: 0.81020, nmi: 0.72463
+2019-02-13 17:46:53,431 [INFO]: #Epoch  31: Loss: 69.570, Recon Loss: 64.378, Cluster Loss: 9.939, Entropy Loss: -4.747
+2019-02-13 17:46:55,388 [INFO]: #Epoch  32: Loss: 69.516, Recon Loss: 64.356, Cluster Loss: 9.936, Entropy Loss: -4.775
+2019-02-13 17:46:57,288 [INFO]: #Epoch  33: Loss: 69.544, Recon Loss: 64.381, Cluster Loss: 9.951, Entropy Loss: -4.788
+2019-02-13 17:46:59,161 [INFO]: #Epoch  34: Loss: 69.468, Recon Loss: 64.300, Cluster Loss: 9.961, Entropy Loss: -4.793
+2019-02-13 17:47:01,068 [INFO]: #Epoch  35: Loss: 69.540, Recon Loss: 64.375, Cluster Loss: 9.948, Entropy Loss: -4.783
+2019-02-13 17:47:02,961 [INFO]: #Epoch  36: Loss: 69.439, Recon Loss: 64.285, Cluster Loss: 9.960, Entropy Loss: -4.806
+2019-02-13 17:47:04,933 [INFO]: #Epoch  37: Loss: 69.477, Recon Loss: 64.338, Cluster Loss: 9.961, Entropy Loss: -4.822
+2019-02-13 17:47:06,846 [INFO]: #Epoch  38: Loss: 69.389, Recon Loss: 64.310, Cluster Loss: 9.964, Entropy Loss: -4.886
+2019-02-13 17:47:08,643 [INFO]: #Epoch  39: Loss: 69.400, Recon Loss: 64.288, Cluster Loss: 9.972, Entropy Loss: -4.861
+2019-02-13 17:47:10,582 [INFO]: #Epoch  40: Loss: 69.304, Recon Loss: 64.261, Cluster Loss: 9.985, Entropy Loss: -4.942
+2019-02-13 17:47:10,654 [INFO]: acc: 0.81510, nmi: 0.73297
+2019-02-13 17:47:12,586 [INFO]: #Epoch  41: Loss: 69.216, Recon Loss: 64.136, Cluster Loss: 9.988, Entropy Loss: -4.908
+2019-02-13 17:47:14,464 [INFO]: #Epoch  42: Loss: 69.174, Recon Loss: 64.102, Cluster Loss: 9.978, Entropy Loss: -4.906
+2019-02-13 17:47:16,291 [INFO]: #Epoch  43: Loss: 69.159, Recon Loss: 64.078, Cluster Loss: 9.993, Entropy Loss: -4.912
+2019-02-13 17:47:18,129 [INFO]: #Epoch  44: Loss: 69.110, Recon Loss: 64.078, Cluster Loss: 9.989, Entropy Loss: -4.958
+2019-02-13 17:47:19,945 [INFO]: #Epoch  45: Loss: 69.152, Recon Loss: 64.096, Cluster Loss: 9.987, Entropy Loss: -4.931
+2019-02-13 17:47:21,754 [INFO]: #Epoch  46: Loss: 69.154, Recon Loss: 64.134, Cluster Loss: 10.005, Entropy Loss: -4.984
+2019-02-13 17:47:23,580 [INFO]: #Epoch  47: Loss: 69.169, Recon Loss: 64.128, Cluster Loss: 10.001, Entropy Loss: -4.961
+2019-02-13 17:47:25,568 [INFO]: #Epoch  48: Loss: 69.129, Recon Loss: 64.083, Cluster Loss: 10.000, Entropy Loss: -4.953
+2019-02-13 17:47:27,485 [INFO]: #Epoch  49: Loss: 69.056, Recon Loss: 64.043, Cluster Loss: 10.006, Entropy Loss: -4.993
+2019-02-13 17:47:29,381 [INFO]: #Epoch  50: Loss: 69.074, Recon Loss: 64.050, Cluster Loss: 10.008, Entropy Loss: -4.985
+2019-02-13 17:47:29,454 [INFO]: acc: 0.81530, nmi: 0.73702
+2019-02-13 17:47:31,284 [INFO]: #Epoch  51: Loss: 69.020, Recon Loss: 64.029, Cluster Loss: 10.012, Entropy Loss: -5.021
+2019-02-13 17:47:33,102 [INFO]: #Epoch  52: Loss: 69.031, Recon Loss: 64.047, Cluster Loss: 10.015, Entropy Loss: -5.031
+2019-02-13 17:47:34,950 [INFO]: #Epoch  53: Loss: 68.975, Recon Loss: 63.980, Cluster Loss: 10.008, Entropy Loss: -5.014
+2019-02-13 17:47:36,755 [INFO]: #Epoch  54: Loss: 68.981, Recon Loss: 63.986, Cluster Loss: 10.006, Entropy Loss: -5.012
+2019-02-13 17:47:38,541 [INFO]: #Epoch  55: Loss: 68.976, Recon Loss: 64.013, Cluster Loss: 10.014, Entropy Loss: -5.050
+2019-02-13 17:47:40,345 [INFO]: #Epoch  56: Loss: 68.975, Recon Loss: 63.998, Cluster Loss: 10.003, Entropy Loss: -5.026
+2019-02-13 17:47:42,156 [INFO]: #Epoch  57: Loss: 68.959, Recon Loss: 63.978, Cluster Loss: 10.006, Entropy Loss: -5.025
+2019-02-13 17:47:43,960 [INFO]: #Epoch  58: Loss: 69.014, Recon Loss: 64.026, Cluster Loss: 10.022, Entropy Loss: -5.034
+2019-02-13 17:47:45,782 [INFO]: #Epoch  59: Loss: 68.932, Recon Loss: 63.975, Cluster Loss: 10.024, Entropy Loss: -5.067
+2019-02-13 17:47:47,593 [INFO]: #Epoch  60: Loss: 68.920, Recon Loss: 63.965, Cluster Loss: 10.017, Entropy Loss: -5.062
+2019-02-13 17:47:47,665 [INFO]: acc: 0.81400, nmi: 0.73776
+2019-02-13 17:47:49,482 [INFO]: #Epoch  61: Loss: 68.755, Recon Loss: 63.793, Cluster Loss: 10.017, Entropy Loss: -5.055
+2019-02-13 17:47:51,378 [INFO]: #Epoch  62: Loss: 68.738, Recon Loss: 63.776, Cluster Loss: 10.018, Entropy Loss: -5.056
+2019-02-13 17:47:53,204 [INFO]: #Epoch  63: Loss: 68.716, Recon Loss: 63.774, Cluster Loss: 10.021, Entropy Loss: -5.078
+2019-02-13 17:47:54,996 [INFO]: #Epoch  64: Loss: 68.727, Recon Loss: 63.772, Cluster Loss: 10.032, Entropy Loss: -5.078
+2019-02-13 17:47:56,800 [INFO]: #Epoch  65: Loss: 68.750, Recon Loss: 63.780, Cluster Loss: 10.032, Entropy Loss: -5.062
+2019-02-13 17:47:58,689 [INFO]: #Epoch  66: Loss: 68.693, Recon Loss: 63.748, Cluster Loss: 10.010, Entropy Loss: -5.065
+2019-02-13 17:48:00,573 [INFO]: #Epoch  67: Loss: 68.699, Recon Loss: 63.757, Cluster Loss: 10.018, Entropy Loss: -5.076
+2019-02-13 17:48:02,467 [INFO]: #Epoch  68: Loss: 68.649, Recon Loss: 63.714, Cluster Loss: 10.038, Entropy Loss: -5.104
+2019-02-13 17:48:04,327 [INFO]: #Epoch  69: Loss: 68.618, Recon Loss: 63.698, Cluster Loss: 10.023, Entropy Loss: -5.103
+2019-02-13 17:48:06,153 [INFO]: #Epoch  70: Loss: 68.655, Recon Loss: 63.745, Cluster Loss: 10.021, Entropy Loss: -5.111
+2019-02-13 17:48:06,226 [INFO]: acc: 0.81600, nmi: 0.74251
+2019-02-13 17:48:07,996 [INFO]: #Epoch  71: Loss: 68.687, Recon Loss: 63.788, Cluster Loss: 10.021, Entropy Loss: -5.122
+2019-02-13 17:48:09,803 [INFO]: #Epoch  72: Loss: 68.640, Recon Loss: 63.761, Cluster Loss: 10.034, Entropy Loss: -5.155
+2019-02-13 17:48:11,624 [INFO]: #Epoch  73: Loss: 68.729, Recon Loss: 63.818, Cluster Loss: 10.036, Entropy Loss: -5.125
+2019-02-13 17:48:13,501 [INFO]: #Epoch  74: Loss: 68.584, Recon Loss: 63.663, Cluster Loss: 10.041, Entropy Loss: -5.120
+2019-02-13 17:48:15,342 [INFO]: #Epoch  75: Loss: 68.620, Recon Loss: 63.703, Cluster Loss: 10.023, Entropy Loss: -5.106
+2019-02-13 17:48:17,182 [INFO]: #Epoch  76: Loss: 68.669, Recon Loss: 63.760, Cluster Loss: 10.040, Entropy Loss: -5.131
+2019-02-13 17:48:18,968 [INFO]: #Epoch  77: Loss: 68.599, Recon Loss: 63.714, Cluster Loss: 10.019, Entropy Loss: -5.133
+2019-02-13 17:48:20,813 [INFO]: #Epoch  78: Loss: 68.623, Recon Loss: 63.736, Cluster Loss: 10.034, Entropy Loss: -5.147
+2019-02-13 17:48:22,669 [INFO]: #Epoch  79: Loss: 68.629, Recon Loss: 63.751, Cluster Loss: 10.038, Entropy Loss: -5.161
+2019-02-13 17:48:24,517 [INFO]: #Epoch  80: Loss: 68.521, Recon Loss: 63.640, Cluster Loss: 10.034, Entropy Loss: -5.153
+2019-02-13 17:48:24,591 [INFO]: acc: 0.81850, nmi: 0.74304
+2019-02-13 17:48:26,429 [INFO]: #Epoch  81: Loss: 68.472, Recon Loss: 63.596, Cluster Loss: 10.020, Entropy Loss: -5.145
+2019-02-13 17:48:28,228 [INFO]: #Epoch  82: Loss: 68.421, Recon Loss: 63.567, Cluster Loss: 10.027, Entropy Loss: -5.174
+2019-02-13 17:48:30,075 [INFO]: #Epoch  83: Loss: 68.432, Recon Loss: 63.544, Cluster Loss: 10.043, Entropy Loss: -5.156
+2019-02-13 17:48:31,941 [INFO]: #Epoch  84: Loss: 68.382, Recon Loss: 63.532, Cluster Loss: 10.038, Entropy Loss: -5.188
+2019-02-13 17:48:33,816 [INFO]: #Epoch  85: Loss: 68.431, Recon Loss: 63.559, Cluster Loss: 10.043, Entropy Loss: -5.171
+2019-02-13 17:48:35,637 [INFO]: #Epoch  86: Loss: 68.348, Recon Loss: 63.482, Cluster Loss: 10.037, Entropy Loss: -5.171
+2019-02-13 17:48:37,435 [INFO]: #Epoch  87: Loss: 68.365, Recon Loss: 63.511, Cluster Loss: 10.035, Entropy Loss: -5.181
+2019-02-13 17:48:39,261 [INFO]: #Epoch  88: Loss: 68.392, Recon Loss: 63.526, Cluster Loss: 10.053, Entropy Loss: -5.187
+2019-02-13 17:48:41,066 [INFO]: #Epoch  89: Loss: 68.329, Recon Loss: 63.463, Cluster Loss: 10.032, Entropy Loss: -5.166
+2019-02-13 17:48:42,861 [INFO]: #Epoch  90: Loss: 68.264, Recon Loss: 63.455, Cluster Loss: 10.043, Entropy Loss: -5.234
+2019-02-13 17:48:42,934 [INFO]: acc: 0.81980, nmi: 0.74661
+2019-02-13 17:48:44,738 [INFO]: #Epoch  91: Loss: 68.442, Recon Loss: 63.551, Cluster Loss: 10.039, Entropy Loss: -5.149
+2019-02-13 17:48:46,564 [INFO]: #Epoch  92: Loss: 68.311, Recon Loss: 63.441, Cluster Loss: 10.034, Entropy Loss: -5.164
+2019-02-13 17:48:48,415 [INFO]: #Epoch  93: Loss: 68.323, Recon Loss: 63.488, Cluster Loss: 10.037, Entropy Loss: -5.203
+2019-02-13 17:48:50,240 [INFO]: #Epoch  94: Loss: 68.325, Recon Loss: 63.481, Cluster Loss: 10.025, Entropy Loss: -5.180
+2019-02-13 17:48:52,026 [INFO]: #Epoch  95: Loss: 68.327, Recon Loss: 63.462, Cluster Loss: 10.044, Entropy Loss: -5.178
+2019-02-13 17:48:53,835 [INFO]: #Epoch  96: Loss: 68.285, Recon Loss: 63.434, Cluster Loss: 10.037, Entropy Loss: -5.186
+2019-02-13 17:48:55,669 [INFO]: #Epoch  97: Loss: 68.315, Recon Loss: 63.483, Cluster Loss: 10.052, Entropy Loss: -5.220
+2019-02-13 17:48:57,482 [INFO]: #Epoch  98: Loss: 68.305, Recon Loss: 63.470, Cluster Loss: 10.033, Entropy Loss: -5.199
+2019-02-13 17:48:59,420 [INFO]: #Epoch  99: Loss: 68.260, Recon Loss: 63.448, Cluster Loss: 10.035, Entropy Loss: -5.223
+2019-02-13 17:49:01,343 [INFO]: #Epoch 100: Loss: 68.277, Recon Loss: 63.453, Cluster Loss: 10.028, Entropy Loss: -5.204
+2019-02-13 17:49:01,419 [INFO]: acc: 0.81960, nmi: 0.74896
+2019-02-13 17:49:03,224 [INFO]: #Epoch 101: Loss: 68.161, Recon Loss: 63.332, Cluster Loss: 10.033, Entropy Loss: -5.204
+2019-02-13 17:49:05,040 [INFO]: #Epoch 102: Loss: 68.185, Recon Loss: 63.331, Cluster Loss: 10.048, Entropy Loss: -5.194
+2019-02-13 17:49:06,819 [INFO]: #Epoch 103: Loss: 68.164, Recon Loss: 63.323, Cluster Loss: 10.050, Entropy Loss: -5.209
+2019-02-13 17:49:08,631 [INFO]: #Epoch 104: Loss: 68.136, Recon Loss: 63.304, Cluster Loss: 10.026, Entropy Loss: -5.194
+2019-02-13 17:49:10,470 [INFO]: #Epoch 105: Loss: 68.127, Recon Loss: 63.327, Cluster Loss: 10.039, Entropy Loss: -5.239
+2019-02-13 17:49:12,310 [INFO]: #Epoch 106: Loss: 68.085, Recon Loss: 63.268, Cluster Loss: 10.052, Entropy Loss: -5.235
+2019-02-13 17:49:14,141 [INFO]: #Epoch 107: Loss: 68.081, Recon Loss: 63.272, Cluster Loss: 10.035, Entropy Loss: -5.225
+2019-02-13 17:49:15,961 [INFO]: #Epoch 108: Loss: 68.174, Recon Loss: 63.339, Cluster Loss: 10.026, Entropy Loss: -5.191
+2019-02-13 17:49:17,830 [INFO]: #Epoch 109: Loss: 68.032, Recon Loss: 63.240, Cluster Loss: 10.031, Entropy Loss: -5.239
+2019-02-13 17:49:19,670 [INFO]: #Epoch 110: Loss: 68.057, Recon Loss: 63.246, Cluster Loss: 10.053, Entropy Loss: -5.242
+2019-02-13 17:49:19,745 [INFO]: acc: 0.82440, nmi: 0.75411
+2019-02-13 17:49:21,590 [INFO]: #Epoch 111: Loss: 68.049, Recon Loss: 63.230, Cluster Loss: 10.046, Entropy Loss: -5.227
+2019-02-13 17:49:23,504 [INFO]: #Epoch 112: Loss: 68.089, Recon Loss: 63.294, Cluster Loss: 10.038, Entropy Loss: -5.244
+2019-02-13 17:49:25,367 [INFO]: #Epoch 113: Loss: 68.060, Recon Loss: 63.245, Cluster Loss: 10.053, Entropy Loss: -5.237
+2019-02-13 17:49:27,399 [INFO]: #Epoch 114: Loss: 67.990, Recon Loss: 63.204, Cluster Loss: 10.040, Entropy Loss: -5.253
+2019-02-13 17:49:29,290 [INFO]: #Epoch 115: Loss: 68.031, Recon Loss: 63.220, Cluster Loss: 10.052, Entropy Loss: -5.240
+2019-02-13 17:49:31,095 [INFO]: #Epoch 116: Loss: 68.064, Recon Loss: 63.258, Cluster Loss: 10.031, Entropy Loss: -5.226
+2019-02-13 17:49:32,940 [INFO]: #Epoch 117: Loss: 68.105, Recon Loss: 63.313, Cluster Loss: 10.034, Entropy Loss: -5.242
+2019-02-13 17:49:34,749 [INFO]: #Epoch 118: Loss: 68.008, Recon Loss: 63.221, Cluster Loss: 10.043, Entropy Loss: -5.256
+2019-02-13 17:49:36,641 [INFO]: #Epoch 119: Loss: 68.049, Recon Loss: 63.232, Cluster Loss: 10.037, Entropy Loss: -5.220
+2019-02-13 17:49:38,504 [INFO]: #Epoch 120: Loss: 68.019, Recon Loss: 63.235, Cluster Loss: 10.033, Entropy Loss: -5.249
+2019-02-13 17:49:38,580 [INFO]: acc: 0.82070, nmi: 0.74925
+2019-02-13 17:49:40,430 [INFO]: #Epoch 121: Loss: 67.947, Recon Loss: 63.147, Cluster Loss: 10.032, Entropy Loss: -5.232
+2019-02-13 17:49:42,325 [INFO]: #Epoch 122: Loss: 67.838, Recon Loss: 63.064, Cluster Loss: 10.041, Entropy Loss: -5.267
+2019-02-13 17:49:44,182 [INFO]: #Epoch 123: Loss: 67.896, Recon Loss: 63.092, Cluster Loss: 10.039, Entropy Loss: -5.235
+2019-02-13 17:49:46,101 [INFO]: #Epoch 124: Loss: 67.800, Recon Loss: 63.040, Cluster Loss: 10.057, Entropy Loss: -5.298
+2019-02-13 17:49:47,948 [INFO]: #Epoch 125: Loss: 67.855, Recon Loss: 63.053, Cluster Loss: 10.051, Entropy Loss: -5.249
+2019-02-13 17:49:49,825 [INFO]: #Epoch 126: Loss: 67.864, Recon Loss: 63.070, Cluster Loss: 10.048, Entropy Loss: -5.254
+2019-02-13 17:49:51,750 [INFO]: #Epoch 127: Loss: 67.802, Recon Loss: 63.033, Cluster Loss: 10.021, Entropy Loss: -5.252
+2019-02-13 17:49:53,702 [INFO]: #Epoch 128: Loss: 67.867, Recon Loss: 63.070, Cluster Loss: 10.035, Entropy Loss: -5.239
+2019-02-13 17:49:55,498 [INFO]: #Epoch 129: Loss: 67.913, Recon Loss: 63.113, Cluster Loss: 10.047, Entropy Loss: -5.247
+2019-02-13 17:49:57,361 [INFO]: #Epoch 130: Loss: 67.836, Recon Loss: 63.055, Cluster Loss: 10.050, Entropy Loss: -5.269
+2019-02-13 17:49:57,434 [INFO]: acc: 0.82640, nmi: 0.75622
+2019-02-13 17:49:59,232 [INFO]: #Epoch 131: Loss: 67.796, Recon Loss: 63.048, Cluster Loss: 10.029, Entropy Loss: -5.281
+2019-02-13 17:50:01,071 [INFO]: #Epoch 132: Loss: 67.878, Recon Loss: 63.086, Cluster Loss: 10.040, Entropy Loss: -5.248
+2019-02-13 17:50:02,918 [INFO]: #Epoch 133: Loss: 67.755, Recon Loss: 62.989, Cluster Loss: 10.042, Entropy Loss: -5.275
+2019-02-13 17:50:04,772 [INFO]: #Epoch 134: Loss: 67.828, Recon Loss: 63.086, Cluster Loss: 10.031, Entropy Loss: -5.289
+2019-02-13 17:50:06,662 [INFO]: #Epoch 135: Loss: 67.816, Recon Loss: 63.068, Cluster Loss: 10.037, Entropy Loss: -5.289
+2019-02-13 17:50:08,500 [INFO]: #Epoch 136: Loss: 67.727, Recon Loss: 62.957, Cluster Loss: 10.050, Entropy Loss: -5.279
+2019-02-13 17:50:10,311 [INFO]: #Epoch 137: Loss: 67.800, Recon Loss: 63.061, Cluster Loss: 10.028, Entropy Loss: -5.289
+2019-02-13 17:50:12,130 [INFO]: #Epoch 138: Loss: 67.771, Recon Loss: 63.017, Cluster Loss: 10.037, Entropy Loss: -5.283
+2019-02-13 17:50:13,990 [INFO]: #Epoch 139: Loss: 67.816, Recon Loss: 63.058, Cluster Loss: 10.051, Entropy Loss: -5.293
+2019-02-13 17:50:15,865 [INFO]: #Epoch 140: Loss: 67.785, Recon Loss: 63.021, Cluster Loss: 10.040, Entropy Loss: -5.276
+2019-02-13 17:50:15,939 [INFO]: acc: 0.82450, nmi: 0.75546
+2019-02-13 17:50:17,749 [INFO]: #Epoch 141: Loss: 67.661, Recon Loss: 62.888, Cluster Loss: 10.049, Entropy Loss: -5.276
+2019-02-13 17:50:19,571 [INFO]: #Epoch 142: Loss: 67.691, Recon Loss: 62.889, Cluster Loss: 10.054, Entropy Loss: -5.252
+2019-02-13 17:50:21,388 [INFO]: #Epoch 143: Loss: 67.677, Recon Loss: 62.918, Cluster Loss: 10.049, Entropy Loss: -5.290
+2019-02-13 17:50:23,180 [INFO]: #Epoch 144: Loss: 67.702, Recon Loss: 62.942, Cluster Loss: 10.041, Entropy Loss: -5.281
+2019-02-13 17:50:24,984 [INFO]: #Epoch 145: Loss: 67.672, Recon Loss: 62.885, Cluster Loss: 10.031, Entropy Loss: -5.245
+2019-02-13 17:50:26,793 [INFO]: #Epoch 146: Loss: 67.649, Recon Loss: 62.911, Cluster Loss: 10.027, Entropy Loss: -5.289
+2019-02-13 17:50:28,578 [INFO]: #Epoch 147: Loss: 67.672, Recon Loss: 62.904, Cluster Loss: 10.050, Entropy Loss: -5.282
+2019-02-13 17:50:30,399 [INFO]: #Epoch 148: Loss: 67.634, Recon Loss: 62.885, Cluster Loss: 10.033, Entropy Loss: -5.284
+2019-02-13 17:50:32,307 [INFO]: #Epoch 149: Loss: 67.626, Recon Loss: 62.863, Cluster Loss: 10.053, Entropy Loss: -5.289
+2019-02-13 17:50:34,201 [INFO]: #Epoch 150: Loss: 67.631, Recon Loss: 62.898, Cluster Loss: 10.018, Entropy Loss: -5.285
+2019-02-13 17:50:34,275 [INFO]: acc: 0.82560, nmi: 0.75613
+2019-02-13 17:50:36,088 [INFO]: #Epoch 151: Loss: 67.630, Recon Loss: 62.857, Cluster Loss: 10.058, Entropy Loss: -5.284
+2019-02-13 17:50:37,923 [INFO]: #Epoch 152: Loss: 67.578, Recon Loss: 62.842, Cluster Loss: 10.053, Entropy Loss: -5.317
+2019-02-13 17:50:39,811 [INFO]: #Epoch 153: Loss: 67.579, Recon Loss: 62.855, Cluster Loss: 10.038, Entropy Loss: -5.315
+2019-02-13 17:50:41,637 [INFO]: #Epoch 154: Loss: 67.562, Recon Loss: 62.809, Cluster Loss: 10.035, Entropy Loss: -5.283
+2019-02-13 17:50:43,532 [INFO]: #Epoch 155: Loss: 67.685, Recon Loss: 62.944, Cluster Loss: 10.017, Entropy Loss: -5.276
+2019-02-13 17:50:45,457 [INFO]: #Epoch 156: Loss: 67.528, Recon Loss: 62.806, Cluster Loss: 10.045, Entropy Loss: -5.323
+2019-02-13 17:50:47,324 [INFO]: #Epoch 157: Loss: 67.621, Recon Loss: 62.893, Cluster Loss: 10.037, Entropy Loss: -5.309
+2019-02-13 17:50:49,151 [INFO]: #Epoch 158: Loss: 67.561, Recon Loss: 62.840, Cluster Loss: 10.055, Entropy Loss: -5.333
+2019-02-13 17:50:51,046 [INFO]: #Epoch 159: Loss: 67.586, Recon Loss: 62.846, Cluster Loss: 10.045, Entropy Loss: -5.305
+2019-02-13 17:50:52,859 [INFO]: #Epoch 160: Loss: 67.591, Recon Loss: 62.863, Cluster Loss: 10.038, Entropy Loss: -5.310
+2019-02-13 17:50:52,933 [INFO]: acc: 0.82820, nmi: 0.76090
+2019-02-13 17:50:54,745 [INFO]: #Epoch 161: Loss: 67.491, Recon Loss: 62.760, Cluster Loss: 10.034, Entropy Loss: -5.303
+2019-02-13 17:50:56,628 [INFO]: #Epoch 162: Loss: 67.442, Recon Loss: 62.700, Cluster Loss: 10.047, Entropy Loss: -5.306
+2019-02-13 17:50:58,474 [INFO]: #Epoch 163: Loss: 67.517, Recon Loss: 62.732, Cluster Loss: 10.031, Entropy Loss: -5.246
+2019-02-13 17:51:00,282 [INFO]: #Epoch 164: Loss: 67.474, Recon Loss: 62.722, Cluster Loss: 10.044, Entropy Loss: -5.292
+2019-02-13 17:51:02,097 [INFO]: #Epoch 165: Loss: 67.485, Recon Loss: 62.715, Cluster Loss: 10.045, Entropy Loss: -5.275
+2019-02-13 17:51:03,944 [INFO]: #Epoch 166: Loss: 67.489, Recon Loss: 62.764, Cluster Loss: 10.028, Entropy Loss: -5.303
+2019-02-13 17:51:05,775 [INFO]: #Epoch 167: Loss: 67.470, Recon Loss: 62.733, Cluster Loss: 10.042, Entropy Loss: -5.306
+2019-02-13 17:51:07,573 [INFO]: #Epoch 168: Loss: 67.488, Recon Loss: 62.732, Cluster Loss: 10.037, Entropy Loss: -5.281
+2019-02-13 17:51:09,361 [INFO]: #Epoch 169: Loss: 67.445, Recon Loss: 62.689, Cluster Loss: 10.037, Entropy Loss: -5.281
+2019-02-13 17:51:11,180 [INFO]: #Epoch 170: Loss: 67.439, Recon Loss: 62.660, Cluster Loss: 10.041, Entropy Loss: -5.262
+2019-02-13 17:51:11,255 [INFO]: acc: 0.82770, nmi: 0.75818
+2019-02-13 17:51:13,087 [INFO]: #Epoch 171: Loss: 67.415, Recon Loss: 62.673, Cluster Loss: 10.044, Entropy Loss: -5.301
+2019-02-13 17:51:14,926 [INFO]: #Epoch 172: Loss: 67.448, Recon Loss: 62.711, Cluster Loss: 10.024, Entropy Loss: -5.287
+2019-02-13 17:51:16,781 [INFO]: #Epoch 173: Loss: 67.464, Recon Loss: 62.696, Cluster Loss: 10.040, Entropy Loss: -5.272
+2019-02-13 17:51:18,567 [INFO]: #Epoch 174: Loss: 67.410, Recon Loss: 62.692, Cluster Loss: 10.028, Entropy Loss: -5.310
+2019-02-13 17:51:20,389 [INFO]: #Epoch 175: Loss: 67.478, Recon Loss: 62.744, Cluster Loss: 10.040, Entropy Loss: -5.306
+2019-02-13 17:51:22,256 [INFO]: #Epoch 176: Loss: 67.389, Recon Loss: 62.654, Cluster Loss: 10.046, Entropy Loss: -5.311
+2019-02-13 17:51:24,132 [INFO]: #Epoch 177: Loss: 67.471, Recon Loss: 62.752, Cluster Loss: 10.031, Entropy Loss: -5.312
+2019-02-13 17:51:26,048 [INFO]: #Epoch 178: Loss: 67.419, Recon Loss: 62.706, Cluster Loss: 10.040, Entropy Loss: -5.327
+2019-02-13 17:51:27,893 [INFO]: #Epoch 179: Loss: 67.436, Recon Loss: 62.707, Cluster Loss: 10.038, Entropy Loss: -5.309
+2019-02-13 17:51:29,709 [INFO]: #Epoch 180: Loss: 67.377, Recon Loss: 62.661, Cluster Loss: 10.047, Entropy Loss: -5.331
+2019-02-13 17:51:29,782 [INFO]: acc: 0.82840, nmi: 0.76007
+2019-02-13 17:51:31,599 [INFO]: #Epoch 181: Loss: 67.291, Recon Loss: 62.575, Cluster Loss: 10.047, Entropy Loss: -5.331
+2019-02-13 17:51:33,414 [INFO]: #Epoch 182: Loss: 67.302, Recon Loss: 62.568, Cluster Loss: 10.055, Entropy Loss: -5.321
+2019-02-13 17:51:35,216 [INFO]: #Epoch 183: Loss: 67.291, Recon Loss: 62.580, Cluster Loss: 10.035, Entropy Loss: -5.325
+2019-02-13 17:51:37,087 [INFO]: #Epoch 184: Loss: 67.347, Recon Loss: 62.606, Cluster Loss: 10.039, Entropy Loss: -5.297
+2019-02-13 17:51:38,918 [INFO]: #Epoch 185: Loss: 67.276, Recon Loss: 62.538, Cluster Loss: 10.051, Entropy Loss: -5.313
+2019-02-13 17:51:40,778 [INFO]: #Epoch 186: Loss: 67.306, Recon Loss: 62.564, Cluster Loss: 10.035, Entropy Loss: -5.294
+2019-02-13 17:51:42,586 [INFO]: #Epoch 187: Loss: 67.315, Recon Loss: 62.605, Cluster Loss: 10.031, Entropy Loss: -5.322
+2019-02-13 17:51:44,430 [INFO]: #Epoch 188: Loss: 67.292, Recon Loss: 62.549, Cluster Loss: 10.041, Entropy Loss: -5.297
+2019-02-13 17:51:46,256 [INFO]: #Epoch 189: Loss: 67.328, Recon Loss: 62.599, Cluster Loss: 10.020, Entropy Loss: -5.291
+2019-02-13 17:51:48,103 [INFO]: #Epoch 190: Loss: 67.320, Recon Loss: 62.614, Cluster Loss: 10.022, Entropy Loss: -5.316
+2019-02-13 17:51:48,177 [INFO]: acc: 0.83120, nmi: 0.76486
+2019-02-13 17:51:49,977 [INFO]: #Epoch 191: Loss: 67.276, Recon Loss: 62.532, Cluster Loss: 10.049, Entropy Loss: -5.305
+2019-02-13 17:51:51,845 [INFO]: #Epoch 192: Loss: 67.305, Recon Loss: 62.560, Cluster Loss: 10.045, Entropy Loss: -5.301
+2019-02-13 17:51:53,672 [INFO]: #Epoch 193: Loss: 67.277, Recon Loss: 62.550, Cluster Loss: 10.046, Entropy Loss: -5.318
+2019-02-13 17:51:55,503 [INFO]: #Epoch 194: Loss: 67.298, Recon Loss: 62.577, Cluster Loss: 10.037, Entropy Loss: -5.316
+2019-02-13 17:51:57,332 [INFO]: #Epoch 195: Loss: 67.282, Recon Loss: 62.581, Cluster Loss: 10.046, Entropy Loss: -5.345
+2019-02-13 17:51:59,177 [INFO]: #Epoch 196: Loss: 67.235, Recon Loss: 62.545, Cluster Loss: 10.045, Entropy Loss: -5.355
+2019-02-13 17:52:01,027 [INFO]: #Epoch 197: Loss: 67.299, Recon Loss: 62.584, Cluster Loss: 10.030, Entropy Loss: -5.315
+2019-02-13 17:52:02,895 [INFO]: #Epoch 198: Loss: 67.314, Recon Loss: 62.587, Cluster Loss: 10.039, Entropy Loss: -5.312
+2019-02-13 17:52:04,758 [INFO]: #Epoch 199: Loss: 67.241, Recon Loss: 62.498, Cluster Loss: 10.053, Entropy Loss: -5.309
+2019-02-13 17:52:06,603 [INFO]: #Epoch 200: Loss: 67.255, Recon Loss: 62.550, Cluster Loss: 10.032, Entropy Loss: -5.327
+2019-02-13 17:52:06,679 [INFO]: acc: 0.83090, nmi: 0.76449
+2019-02-13 17:52:08,672 [INFO]: #Epoch 201: Loss: 67.185, Recon Loss: 62.490, Cluster Loss: 10.045, Entropy Loss: -5.349
+2019-02-13 17:52:10,561 [INFO]: #Epoch 202: Loss: 67.077, Recon Loss: 62.398, Cluster Loss: 10.043, Entropy Loss: -5.364
+2019-02-13 17:52:12,381 [INFO]: #Epoch 203: Loss: 67.127, Recon Loss: 62.448, Cluster Loss: 10.023, Entropy Loss: -5.344
+2019-02-13 17:52:14,266 [INFO]: #Epoch 204: Loss: 67.132, Recon Loss: 62.406, Cluster Loss: 10.063, Entropy Loss: -5.337
+2019-02-13 17:52:16,117 [INFO]: #Epoch 205: Loss: 67.162, Recon Loss: 62.446, Cluster Loss: 10.020, Entropy Loss: -5.304
+2019-02-13 17:52:17,910 [INFO]: #Epoch 206: Loss: 67.124, Recon Loss: 62.388, Cluster Loss: 10.048, Entropy Loss: -5.312
+2019-02-13 17:52:19,770 [INFO]: #Epoch 207: Loss: 67.139, Recon Loss: 62.400, Cluster Loss: 10.051, Entropy Loss: -5.313
+2019-02-13 17:52:21,627 [INFO]: #Epoch 208: Loss: 67.153, Recon Loss: 62.446, Cluster Loss: 10.012, Entropy Loss: -5.306
+2019-02-13 17:52:23,468 [INFO]: #Epoch 209: Loss: 67.120, Recon Loss: 62.438, Cluster Loss: 10.036, Entropy Loss: -5.354
+2019-02-13 17:52:25,319 [INFO]: #Epoch 210: Loss: 67.161, Recon Loss: 62.430, Cluster Loss: 10.046, Entropy Loss: -5.316
+2019-02-13 17:52:25,392 [INFO]: acc: 0.82960, nmi: 0.76316
+2019-02-13 17:52:27,285 [INFO]: #Epoch 211: Loss: 67.145, Recon Loss: 62.447, Cluster Loss: 10.040, Entropy Loss: -5.342
+2019-02-13 17:52:29,211 [INFO]: #Epoch 212: Loss: 67.186, Recon Loss: 62.450, Cluster Loss: 10.034, Entropy Loss: -5.299
+2019-02-13 17:52:31,041 [INFO]: #Epoch 213: Loss: 67.080, Recon Loss: 62.385, Cluster Loss: 10.029, Entropy Loss: -5.334
+2019-02-13 17:52:32,892 [INFO]: #Epoch 214: Loss: 67.137, Recon Loss: 62.402, Cluster Loss: 10.044, Entropy Loss: -5.309
+2019-02-13 17:52:34,720 [INFO]: #Epoch 215: Loss: 67.126, Recon Loss: 62.374, Cluster Loss: 10.053, Entropy Loss: -5.300
+2019-02-13 17:52:36,633 [INFO]: #Epoch 216: Loss: 67.143, Recon Loss: 62.416, Cluster Loss: 10.038, Entropy Loss: -5.311
+2019-02-13 17:52:38,463 [INFO]: #Epoch 217: Loss: 67.062, Recon Loss: 62.350, Cluster Loss: 10.048, Entropy Loss: -5.336
+2019-02-13 17:52:40,274 [INFO]: #Epoch 218: Loss: 67.117, Recon Loss: 62.421, Cluster Loss: 10.036, Entropy Loss: -5.340
+2019-02-13 17:52:42,084 [INFO]: #Epoch 219: Loss: 67.126, Recon Loss: 62.427, Cluster Loss: 10.040, Entropy Loss: -5.341
+2019-02-13 17:52:43,921 [INFO]: #Epoch 220: Loss: 67.121, Recon Loss: 62.417, Cluster Loss: 10.041, Entropy Loss: -5.338
+2019-02-13 17:52:43,995 [INFO]: acc: 0.83260, nmi: 0.76593
+2019-02-13 17:52:45,783 [INFO]: #Epoch 221: Loss: 66.995, Recon Loss: 62.312, Cluster Loss: 10.035, Entropy Loss: -5.353
+2019-02-13 17:52:47,742 [INFO]: #Epoch 222: Loss: 67.025, Recon Loss: 62.311, Cluster Loss: 10.046, Entropy Loss: -5.333
+2019-02-13 17:52:49,578 [INFO]: #Epoch 223: Loss: 66.994, Recon Loss: 62.280, Cluster Loss: 10.039, Entropy Loss: -5.326
+2019-02-13 17:52:51,425 [INFO]: #Epoch 224: Loss: 67.028, Recon Loss: 62.320, Cluster Loss: 10.036, Entropy Loss: -5.327
+2019-02-13 17:52:53,272 [INFO]: #Epoch 225: Loss: 67.074, Recon Loss: 62.335, Cluster Loss: 10.035, Entropy Loss: -5.296
+2019-02-13 17:52:55,114 [INFO]: #Epoch 226: Loss: 66.999, Recon Loss: 62.287, Cluster Loss: 10.038, Entropy Loss: -5.327
+2019-02-13 17:52:56,962 [INFO]: #Epoch 227: Loss: 67.041, Recon Loss: 62.327, Cluster Loss: 10.034, Entropy Loss: -5.320
+2019-02-13 17:52:58,800 [INFO]: #Epoch 228: Loss: 66.969, Recon Loss: 62.263, Cluster Loss: 10.045, Entropy Loss: -5.338
+2019-02-13 17:53:00,626 [INFO]: #Epoch 229: Loss: 66.992, Recon Loss: 62.324, Cluster Loss: 10.024, Entropy Loss: -5.357
+2019-02-13 17:53:02,422 [INFO]: #Epoch 230: Loss: 67.058, Recon Loss: 62.310, Cluster Loss: 10.036, Entropy Loss: -5.287
+2019-02-13 17:53:02,496 [INFO]: acc: 0.83180, nmi: 0.76666
+2019-02-13 17:53:04,302 [INFO]: #Epoch 231: Loss: 67.018, Recon Loss: 62.321, Cluster Loss: 10.026, Entropy Loss: -5.330
+2019-02-13 17:53:06,154 [INFO]: #Epoch 232: Loss: 67.029, Recon Loss: 62.325, Cluster Loss: 10.026, Entropy Loss: -5.321
+2019-02-13 17:53:08,007 [INFO]: #Epoch 233: Loss: 66.973, Recon Loss: 62.238, Cluster Loss: 10.035, Entropy Loss: -5.300
+2019-02-13 17:53:09,802 [INFO]: #Epoch 234: Loss: 66.993, Recon Loss: 62.295, Cluster Loss: 10.035, Entropy Loss: -5.337
+2019-02-13 17:53:11,596 [INFO]: #Epoch 235: Loss: 67.003, Recon Loss: 62.282, Cluster Loss: 10.054, Entropy Loss: -5.333
+2019-02-13 17:53:13,440 [INFO]: #Epoch 236: Loss: 67.002, Recon Loss: 62.304, Cluster Loss: 10.041, Entropy Loss: -5.343
+2019-02-13 17:53:15,303 [INFO]: #Epoch 237: Loss: 67.032, Recon Loss: 62.331, Cluster Loss: 10.031, Entropy Loss: -5.331
+2019-02-13 17:53:17,198 [INFO]: #Epoch 238: Loss: 67.069, Recon Loss: 62.374, Cluster Loss: 10.033, Entropy Loss: -5.337
+2019-02-13 17:53:18,994 [INFO]: #Epoch 239: Loss: 66.971, Recon Loss: 62.286, Cluster Loss: 10.042, Entropy Loss: -5.357
+2019-02-13 17:53:20,833 [INFO]: #Epoch 240: Loss: 66.961, Recon Loss: 62.265, Cluster Loss: 10.043, Entropy Loss: -5.348
+2019-02-13 17:53:20,910 [INFO]: acc: 0.83320, nmi: 0.76860
+2019-02-13 17:53:22,724 [INFO]: #Epoch 241: Loss: 66.927, Recon Loss: 62.228, Cluster Loss: 10.034, Entropy Loss: -5.335
+2019-02-13 17:53:24,531 [INFO]: #Epoch 242: Loss: 66.882, Recon Loss: 62.213, Cluster Loss: 10.042, Entropy Loss: -5.373
+2019-02-13 17:53:26,350 [INFO]: #Epoch 243: Loss: 66.921, Recon Loss: 62.204, Cluster Loss: 10.033, Entropy Loss: -5.316
+2019-02-13 17:53:28,147 [INFO]: #Epoch 244: Loss: 66.956, Recon Loss: 62.231, Cluster Loss: 10.041, Entropy Loss: -5.316
+2019-02-13 17:53:29,939 [INFO]: #Epoch 245: Loss: 66.910, Recon Loss: 62.205, Cluster Loss: 10.024, Entropy Loss: -5.318
+2019-02-13 17:53:31,744 [INFO]: #Epoch 246: Loss: 66.957, Recon Loss: 62.249, Cluster Loss: 10.028, Entropy Loss: -5.320
+2019-02-13 17:53:33,536 [INFO]: #Epoch 247: Loss: 66.894, Recon Loss: 62.159, Cluster Loss: 10.057, Entropy Loss: -5.323
+2019-02-13 17:53:35,348 [INFO]: #Epoch 248: Loss: 66.964, Recon Loss: 62.234, Cluster Loss: 10.035, Entropy Loss: -5.306
+2019-02-13 17:53:37,198 [INFO]: #Epoch 249: Loss: 66.841, Recon Loss: 62.151, Cluster Loss: 10.043, Entropy Loss: -5.353
+2019-02-13 17:53:39,085 [INFO]: #Epoch 250: Loss: 66.896, Recon Loss: 62.196, Cluster Loss: 10.035, Entropy Loss: -5.335
+2019-02-13 17:53:39,159 [INFO]: acc: 0.83150, nmi: 0.76672
+2019-02-13 17:53:41,026 [INFO]: #Epoch 251: Loss: 66.864, Recon Loss: 62.176, Cluster Loss: 10.040, Entropy Loss: -5.351
+2019-02-13 17:53:42,860 [INFO]: #Epoch 252: Loss: 66.844, Recon Loss: 62.142, Cluster Loss: 10.044, Entropy Loss: -5.343
+2019-02-13 17:53:44,714 [INFO]: #Epoch 253: Loss: 66.872, Recon Loss: 62.182, Cluster Loss: 10.026, Entropy Loss: -5.336
+2019-02-13 17:53:46,610 [INFO]: #Epoch 254: Loss: 66.886, Recon Loss: 62.182, Cluster Loss: 10.029, Entropy Loss: -5.326
+2019-02-13 17:53:48,400 [INFO]: #Epoch 255: Loss: 66.882, Recon Loss: 62.174, Cluster Loss: 10.025, Entropy Loss: -5.317
+2019-02-13 17:53:50,273 [INFO]: #Epoch 256: Loss: 66.881, Recon Loss: 62.190, Cluster Loss: 10.037, Entropy Loss: -5.346
+2019-02-13 17:53:52,108 [INFO]: #Epoch 257: Loss: 66.895, Recon Loss: 62.188, Cluster Loss: 10.043, Entropy Loss: -5.336
+2019-02-13 17:53:53,882 [INFO]: #Epoch 258: Loss: 66.877, Recon Loss: 62.175, Cluster Loss: 10.033, Entropy Loss: -5.331
+2019-02-13 17:53:55,681 [INFO]: #Epoch 259: Loss: 66.890, Recon Loss: 62.211, Cluster Loss: 10.023, Entropy Loss: -5.344
+2019-02-13 17:53:57,586 [INFO]: #Epoch 260: Loss: 66.857, Recon Loss: 62.162, Cluster Loss: 10.040, Entropy Loss: -5.345
+2019-02-13 17:53:57,662 [INFO]: acc: 0.83270, nmi: 0.76836
+2019-02-13 17:53:59,494 [INFO]: #Epoch 261: Loss: 66.867, Recon Loss: 62.144, Cluster Loss: 10.048, Entropy Loss: -5.325
+2019-02-13 17:54:01,299 [INFO]: #Epoch 262: Loss: 66.768, Recon Loss: 62.067, Cluster Loss: 10.047, Entropy Loss: -5.345
+2019-02-13 17:54:03,112 [INFO]: #Epoch 263: Loss: 66.820, Recon Loss: 62.101, Cluster Loss: 10.045, Entropy Loss: -5.326
+2019-02-13 17:54:04,893 [INFO]: #Epoch 264: Loss: 66.849, Recon Loss: 62.157, Cluster Loss: 10.043, Entropy Loss: -5.352
+2019-02-13 17:54:06,703 [INFO]: #Epoch 265: Loss: 66.802, Recon Loss: 62.095, Cluster Loss: 10.048, Entropy Loss: -5.342
+2019-02-13 17:54:08,503 [INFO]: #Epoch 266: Loss: 66.746, Recon Loss: 62.081, Cluster Loss: 10.021, Entropy Loss: -5.356
+2019-02-13 17:54:10,314 [INFO]: #Epoch 267: Loss: 66.787, Recon Loss: 62.083, Cluster Loss: 10.041, Entropy Loss: -5.337
+2019-02-13 17:54:12,163 [INFO]: #Epoch 268: Loss: 66.792, Recon Loss: 62.119, Cluster Loss: 10.017, Entropy Loss: -5.345
+2019-02-13 17:54:14,020 [INFO]: #Epoch 269: Loss: 66.828, Recon Loss: 62.115, Cluster Loss: 10.046, Entropy Loss: -5.333
+2019-02-13 17:54:15,860 [INFO]: #Epoch 270: Loss: 66.770, Recon Loss: 62.083, Cluster Loss: 10.044, Entropy Loss: -5.357
+2019-02-13 17:54:15,934 [INFO]: acc: 0.83160, nmi: 0.76733
+2019-02-13 17:54:17,755 [INFO]: #Epoch 271: Loss: 66.791, Recon Loss: 62.086, Cluster Loss: 10.038, Entropy Loss: -5.332
+2019-02-13 17:54:19,598 [INFO]: #Epoch 272: Loss: 66.778, Recon Loss: 62.072, Cluster Loss: 10.042, Entropy Loss: -5.336
+2019-02-13 17:54:21,522 [INFO]: #Epoch 273: Loss: 66.760, Recon Loss: 62.046, Cluster Loss: 10.048, Entropy Loss: -5.335
+2019-02-13 17:54:23,536 [INFO]: #Epoch 274: Loss: 66.795, Recon Loss: 62.106, Cluster Loss: 10.030, Entropy Loss: -5.341
+2019-02-13 17:54:25,451 [INFO]: #Epoch 275: Loss: 66.784, Recon Loss: 62.092, Cluster Loss: 10.032, Entropy Loss: -5.340
+2019-02-13 17:54:27,274 [INFO]: #Epoch 276: Loss: 66.763, Recon Loss: 62.104, Cluster Loss: 10.051, Entropy Loss: -5.391
+2019-02-13 17:54:29,087 [INFO]: #Epoch 277: Loss: 66.753, Recon Loss: 62.059, Cluster Loss: 10.040, Entropy Loss: -5.347
+2019-02-13 17:54:31,010 [INFO]: #Epoch 278: Loss: 66.806, Recon Loss: 62.120, Cluster Loss: 10.029, Entropy Loss: -5.343
+2019-02-13 17:54:32,873 [INFO]: #Epoch 279: Loss: 66.809, Recon Loss: 62.124, Cluster Loss: 10.031, Entropy Loss: -5.346
+2019-02-13 17:54:34,777 [INFO]: #Epoch 280: Loss: 66.783, Recon Loss: 62.069, Cluster Loss: 10.041, Entropy Loss: -5.327
+2019-02-13 17:54:34,853 [INFO]: acc: 0.83300, nmi: 0.76903
+2019-02-13 17:54:36,662 [INFO]: #Epoch 281: Loss: 66.726, Recon Loss: 62.043, Cluster Loss: 10.043, Entropy Loss: -5.360
+2019-02-13 17:54:38,476 [INFO]: #Epoch 282: Loss: 66.726, Recon Loss: 62.058, Cluster Loss: 10.028, Entropy Loss: -5.361
+2019-02-13 17:54:40,271 [INFO]: #Epoch 283: Loss: 66.688, Recon Loss: 61.999, Cluster Loss: 10.040, Entropy Loss: -5.351
+2019-02-13 17:54:42,174 [INFO]: #Epoch 284: Loss: 66.633, Recon Loss: 61.944, Cluster Loss: 10.030, Entropy Loss: -5.340
+2019-02-13 17:54:44,029 [INFO]: #Epoch 285: Loss: 66.689, Recon Loss: 61.995, Cluster Loss: 10.046, Entropy Loss: -5.352
+2019-02-13 17:54:45,878 [INFO]: #Epoch 286: Loss: 66.747, Recon Loss: 62.041, Cluster Loss: 10.032, Entropy Loss: -5.326
+2019-02-13 17:54:47,717 [INFO]: #Epoch 287: Loss: 66.670, Recon Loss: 61.983, Cluster Loss: 10.030, Entropy Loss: -5.342
+2019-02-13 17:54:49,573 [INFO]: #Epoch 288: Loss: 66.666, Recon Loss: 61.963, Cluster Loss: 10.041, Entropy Loss: -5.339
+2019-02-13 17:54:51,389 [INFO]: #Epoch 289: Loss: 66.620, Recon Loss: 61.931, Cluster Loss: 10.042, Entropy Loss: -5.354
+2019-02-13 17:54:53,260 [INFO]: #Epoch 290: Loss: 66.676, Recon Loss: 61.977, Cluster Loss: 10.048, Entropy Loss: -5.349
+2019-02-13 17:54:53,333 [INFO]: acc: 0.83440, nmi: 0.77077
+2019-02-13 17:54:55,209 [INFO]: #Epoch 291: Loss: 66.626, Recon Loss: 61.949, Cluster Loss: 10.028, Entropy Loss: -5.351
+2019-02-13 17:54:57,045 [INFO]: #Epoch 292: Loss: 66.694, Recon Loss: 62.003, Cluster Loss: 10.041, Entropy Loss: -5.350
+2019-02-13 17:54:58,890 [INFO]: #Epoch 293: Loss: 66.635, Recon Loss: 61.961, Cluster Loss: 10.029, Entropy Loss: -5.355
+2019-02-13 17:55:00,708 [INFO]: #Epoch 294: Loss: 66.709, Recon Loss: 62.037, Cluster Loss: 10.043, Entropy Loss: -5.371
+2019-02-13 17:55:02,519 [INFO]: #Epoch 295: Loss: 66.689, Recon Loss: 62.021, Cluster Loss: 10.024, Entropy Loss: -5.356
+2019-02-13 17:55:04,352 [INFO]: #Epoch 296: Loss: 66.646, Recon Loss: 61.942, Cluster Loss: 10.041, Entropy Loss: -5.337
+2019-02-13 17:55:06,205 [INFO]: #Epoch 297: Loss: 66.664, Recon Loss: 62.012, Cluster Loss: 10.038, Entropy Loss: -5.386
+2019-02-13 17:55:08,055 [INFO]: #Epoch 298: Loss: 66.652, Recon Loss: 61.992, Cluster Loss: 10.034, Entropy Loss: -5.374
+2019-02-13 17:55:09,898 [INFO]: #Epoch 299: Loss: 66.647, Recon Loss: 61.958, Cluster Loss: 10.034, Entropy Loss: -5.344
+2019-02-13 17:55:11,722 [INFO]: #Epoch 300: Loss: 66.655, Recon Loss: 61.981, Cluster Loss: 10.039, Entropy Loss: -5.365
+2019-02-13 17:55:11,800 [INFO]: acc: 0.83450, nmi: 0.77008
+2019-02-13 17:55:13,641 [INFO]: #Epoch 301: Loss: 66.610, Recon Loss: 61.942, Cluster Loss: 10.031, Entropy Loss: -5.362
+2019-02-13 17:55:15,520 [INFO]: #Epoch 302: Loss: 66.600, Recon Loss: 61.878, Cluster Loss: 10.026, Entropy Loss: -5.304
+2019-02-13 17:55:17,390 [INFO]: #Epoch 303: Loss: 66.593, Recon Loss: 61.917, Cluster Loss: 10.036, Entropy Loss: -5.360
+2019-02-13 17:55:19,259 [INFO]: #Epoch 304: Loss: 66.604, Recon Loss: 61.928, Cluster Loss: 10.042, Entropy Loss: -5.366
+2019-02-13 17:55:21,052 [INFO]: #Epoch 305: Loss: 66.597, Recon Loss: 61.908, Cluster Loss: 10.037, Entropy Loss: -5.347
+2019-02-13 17:55:22,907 [INFO]: #Epoch 306: Loss: 66.548, Recon Loss: 61.867, Cluster Loss: 10.026, Entropy Loss: -5.345
+2019-02-13 17:55:24,799 [INFO]: #Epoch 307: Loss: 66.625, Recon Loss: 61.925, Cluster Loss: 10.016, Entropy Loss: -5.316
+2019-02-13 17:55:26,757 [INFO]: #Epoch 308: Loss: 66.616, Recon Loss: 61.892, Cluster Loss: 10.027, Entropy Loss: -5.302
+2019-02-13 17:55:28,548 [INFO]: #Epoch 309: Loss: 66.546, Recon Loss: 61.907, Cluster Loss: 10.049, Entropy Loss: -5.411
+2019-02-13 17:55:30,449 [INFO]: #Epoch 310: Loss: 66.625, Recon Loss: 61.931, Cluster Loss: 10.022, Entropy Loss: -5.329
+2019-02-13 17:55:30,523 [INFO]: acc: 0.83520, nmi: 0.77155
+2019-02-13 17:55:32,408 [INFO]: #Epoch 311: Loss: 66.564, Recon Loss: 61.868, Cluster Loss: 10.033, Entropy Loss: -5.337
+2019-02-13 17:55:34,271 [INFO]: #Epoch 312: Loss: 66.631, Recon Loss: 61.914, Cluster Loss: 10.032, Entropy Loss: -5.315
+2019-02-13 17:55:36,150 [INFO]: #Epoch 313: Loss: 66.617, Recon Loss: 61.906, Cluster Loss: 10.028, Entropy Loss: -5.318
+2019-02-13 17:55:37,949 [INFO]: #Epoch 314: Loss: 66.642, Recon Loss: 61.942, Cluster Loss: 10.033, Entropy Loss: -5.334
+2019-02-13 17:55:39,751 [INFO]: #Epoch 315: Loss: 66.590, Recon Loss: 61.905, Cluster Loss: 10.031, Entropy Loss: -5.346
+2019-02-13 17:55:41,579 [INFO]: #Epoch 316: Loss: 66.603, Recon Loss: 61.913, Cluster Loss: 10.024, Entropy Loss: -5.333
+2019-02-13 17:55:43,434 [INFO]: #Epoch 317: Loss: 66.583, Recon Loss: 61.877, Cluster Loss: 10.043, Entropy Loss: -5.337
+2019-02-13 17:55:45,324 [INFO]: #Epoch 318: Loss: 66.560, Recon Loss: 61.899, Cluster Loss: 10.033, Entropy Loss: -5.373
+2019-02-13 17:55:47,151 [INFO]: #Epoch 319: Loss: 66.567, Recon Loss: 61.888, Cluster Loss: 10.033, Entropy Loss: -5.354
+2019-02-13 17:55:48,955 [INFO]: #Epoch 320: Loss: 66.560, Recon Loss: 61.921, Cluster Loss: 10.023, Entropy Loss: -5.384
+2019-02-13 17:55:49,028 [INFO]: acc: 0.83300, nmi: 0.76951
+2019-02-13 17:55:50,818 [INFO]: #Epoch 321: Loss: 66.483, Recon Loss: 61.807, Cluster Loss: 10.025, Entropy Loss: -5.350
+2019-02-13 17:55:52,583 [INFO]: #Epoch 322: Loss: 66.579, Recon Loss: 61.894, Cluster Loss: 10.041, Entropy Loss: -5.355
+2019-02-13 17:55:54,386 [INFO]: #Epoch 323: Loss: 66.579, Recon Loss: 61.881, Cluster Loss: 10.029, Entropy Loss: -5.331
+2019-02-13 17:55:56,291 [INFO]: #Epoch 324: Loss: 66.469, Recon Loss: 61.821, Cluster Loss: 10.037, Entropy Loss: -5.388
+2019-02-13 17:55:58,116 [INFO]: #Epoch 325: Loss: 66.545, Recon Loss: 61.842, Cluster Loss: 10.041, Entropy Loss: -5.338
+2019-02-13 17:55:59,919 [INFO]: #Epoch 326: Loss: 66.520, Recon Loss: 61.866, Cluster Loss: 10.042, Entropy Loss: -5.387
+2019-02-13 17:56:01,715 [INFO]: #Epoch 327: Loss: 66.540, Recon Loss: 61.844, Cluster Loss: 10.030, Entropy Loss: -5.334
+2019-02-13 17:56:03,557 [INFO]: #Epoch 328: Loss: 66.522, Recon Loss: 61.823, Cluster Loss: 10.024, Entropy Loss: -5.325
+2019-02-13 17:56:05,369 [INFO]: #Epoch 329: Loss: 66.511, Recon Loss: 61.840, Cluster Loss: 10.035, Entropy Loss: -5.364
+2019-02-13 17:56:07,166 [INFO]: #Epoch 330: Loss: 66.518, Recon Loss: 61.847, Cluster Loss: 10.028, Entropy Loss: -5.356
+2019-02-13 17:56:07,240 [INFO]: acc: 0.83400, nmi: 0.76881
+2019-02-13 17:56:09,033 [INFO]: #Epoch 331: Loss: 66.539, Recon Loss: 61.863, Cluster Loss: 10.040, Entropy Loss: -5.364
+2019-02-13 17:56:10,848 [INFO]: #Epoch 332: Loss: 66.556, Recon Loss: 61.869, Cluster Loss: 10.030, Entropy Loss: -5.343
+2019-02-13 17:56:12,647 [INFO]: #Epoch 333: Loss: 66.470, Recon Loss: 61.799, Cluster Loss: 10.015, Entropy Loss: -5.344
+2019-02-13 17:56:14,473 [INFO]: #Epoch 334: Loss: 66.509, Recon Loss: 61.817, Cluster Loss: 10.016, Entropy Loss: -5.325
+2019-02-13 17:56:16,302 [INFO]: #Epoch 335: Loss: 66.537, Recon Loss: 61.866, Cluster Loss: 10.032, Entropy Loss: -5.361
+2019-02-13 17:56:18,131 [INFO]: #Epoch 336: Loss: 66.510, Recon Loss: 61.848, Cluster Loss: 10.033, Entropy Loss: -5.371
+2019-02-13 17:56:19,915 [INFO]: #Epoch 337: Loss: 66.504, Recon Loss: 61.823, Cluster Loss: 10.035, Entropy Loss: -5.354
+2019-02-13 17:56:21,762 [INFO]: #Epoch 338: Loss: 66.485, Recon Loss: 61.821, Cluster Loss: 10.039, Entropy Loss: -5.374
+2019-02-13 17:56:23,572 [INFO]: #Epoch 339: Loss: 66.493, Recon Loss: 61.806, Cluster Loss: 10.030, Entropy Loss: -5.344
+2019-02-13 17:56:25,394 [INFO]: #Epoch 340: Loss: 66.493, Recon Loss: 61.832, Cluster Loss: 10.020, Entropy Loss: -5.359
+2019-02-13 17:56:25,468 [INFO]: acc: 0.83760, nmi: 0.77332
+2019-02-13 17:56:27,247 [INFO]: #Epoch 341: Loss: 66.465, Recon Loss: 61.787, Cluster Loss: 10.041, Entropy Loss: -5.363
+2019-02-13 17:56:29,061 [INFO]: #Epoch 342: Loss: 66.443, Recon Loss: 61.765, Cluster Loss: 10.033, Entropy Loss: -5.355
+2019-02-13 17:56:30,869 [INFO]: #Epoch 343: Loss: 66.483, Recon Loss: 61.816, Cluster Loss: 10.019, Entropy Loss: -5.351
+2019-02-13 17:56:32,680 [INFO]: #Epoch 344: Loss: 66.388, Recon Loss: 61.721, Cluster Loss: 10.054, Entropy Loss: -5.387
+2019-02-13 17:56:34,542 [INFO]: #Epoch 345: Loss: 66.446, Recon Loss: 61.770, Cluster Loss: 10.031, Entropy Loss: -5.355
+2019-02-13 17:56:36,377 [INFO]: #Epoch 346: Loss: 66.454, Recon Loss: 61.774, Cluster Loss: 10.025, Entropy Loss: -5.345
+2019-02-13 17:56:38,218 [INFO]: #Epoch 347: Loss: 66.450, Recon Loss: 61.776, Cluster Loss: 10.027, Entropy Loss: -5.353
+2019-02-13 17:56:40,018 [INFO]: #Epoch 348: Loss: 66.485, Recon Loss: 61.814, Cluster Loss: 10.041, Entropy Loss: -5.370
+2019-02-13 17:56:41,832 [INFO]: #Epoch 349: Loss: 66.464, Recon Loss: 61.785, Cluster Loss: 10.033, Entropy Loss: -5.354
+2019-02-13 17:56:43,730 [INFO]: #Epoch 350: Loss: 66.370, Recon Loss: 61.716, Cluster Loss: 10.030, Entropy Loss: -5.376
+2019-02-13 17:56:43,807 [INFO]: acc: 0.83380, nmi: 0.76943
+2019-02-13 17:56:45,678 [INFO]: #Epoch 351: Loss: 66.436, Recon Loss: 61.745, Cluster Loss: 10.037, Entropy Loss: -5.347
+2019-02-13 17:56:47,516 [INFO]: #Epoch 352: Loss: 66.464, Recon Loss: 61.737, Cluster Loss: 10.038, Entropy Loss: -5.311
+2019-02-13 17:56:49,315 [INFO]: #Epoch 353: Loss: 66.437, Recon Loss: 61.768, Cluster Loss: 10.027, Entropy Loss: -5.358
+2019-02-13 17:56:51,160 [INFO]: #Epoch 354: Loss: 66.396, Recon Loss: 61.719, Cluster Loss: 10.024, Entropy Loss: -5.346
+2019-02-13 17:56:52,990 [INFO]: #Epoch 355: Loss: 66.424, Recon Loss: 61.766, Cluster Loss: 10.028, Entropy Loss: -5.370
+2019-02-13 17:56:54,893 [INFO]: #Epoch 356: Loss: 66.435, Recon Loss: 61.737, Cluster Loss: 10.039, Entropy Loss: -5.341
+2019-02-13 17:56:56,829 [INFO]: #Epoch 357: Loss: 66.483, Recon Loss: 61.771, Cluster Loss: 10.020, Entropy Loss: -5.308
+2019-02-13 17:56:58,665 [INFO]: #Epoch 358: Loss: 66.485, Recon Loss: 61.787, Cluster Loss: 10.021, Entropy Loss: -5.323
+2019-02-13 17:57:00,553 [INFO]: #Epoch 359: Loss: 66.450, Recon Loss: 61.777, Cluster Loss: 10.025, Entropy Loss: -5.352
+2019-02-13 17:57:02,400 [INFO]: #Epoch 360: Loss: 66.438, Recon Loss: 61.754, Cluster Loss: 10.029, Entropy Loss: -5.345
+2019-02-13 17:57:02,476 [INFO]: acc: 0.83710, nmi: 0.77276
+2019-02-13 17:57:04,362 [INFO]: #Epoch 361: Loss: 66.414, Recon Loss: 61.718, Cluster Loss: 10.023, Entropy Loss: -5.326
+2019-02-13 17:57:06,171 [INFO]: #Epoch 362: Loss: 66.415, Recon Loss: 61.742, Cluster Loss: 10.033, Entropy Loss: -5.360
+2019-02-13 17:57:08,019 [INFO]: #Epoch 363: Loss: 66.421, Recon Loss: 61.758, Cluster Loss: 10.036, Entropy Loss: -5.373
+2019-02-13 17:57:09,885 [INFO]: #Epoch 364: Loss: 66.359, Recon Loss: 61.669, Cluster Loss: 10.033, Entropy Loss: -5.343
+2019-02-13 17:57:11,708 [INFO]: #Epoch 365: Loss: 66.388, Recon Loss: 61.683, Cluster Loss: 10.029, Entropy Loss: -5.324
+2019-02-13 17:57:13,554 [INFO]: #Epoch 366: Loss: 66.444, Recon Loss: 61.732, Cluster Loss: 10.020, Entropy Loss: -5.308
+2019-02-13 17:57:15,374 [INFO]: #Epoch 367: Loss: 66.366, Recon Loss: 61.704, Cluster Loss: 10.030, Entropy Loss: -5.368
+2019-02-13 17:57:17,275 [INFO]: #Epoch 368: Loss: 66.384, Recon Loss: 61.702, Cluster Loss: 10.019, Entropy Loss: -5.337
+2019-02-13 17:57:19,089 [INFO]: #Epoch 369: Loss: 66.362, Recon Loss: 61.713, Cluster Loss: 10.021, Entropy Loss: -5.371
+2019-02-13 17:57:20,933 [INFO]: #Epoch 370: Loss: 66.387, Recon Loss: 61.707, Cluster Loss: 10.029, Entropy Loss: -5.349
+2019-02-13 17:57:21,008 [INFO]: acc: 0.83790, nmi: 0.77444
+2019-02-13 17:57:22,872 [INFO]: #Epoch 371: Loss: 66.409, Recon Loss: 61.724, Cluster Loss: 10.026, Entropy Loss: -5.341
+2019-02-13 17:57:24,733 [INFO]: #Epoch 372: Loss: 66.364, Recon Loss: 61.713, Cluster Loss: 10.042, Entropy Loss: -5.392
+2019-02-13 17:57:26,597 [INFO]: #Epoch 373: Loss: 66.380, Recon Loss: 61.686, Cluster Loss: 10.043, Entropy Loss: -5.349
+2019-02-13 17:57:28,386 [INFO]: #Epoch 374: Loss: 66.414, Recon Loss: 61.709, Cluster Loss: 10.024, Entropy Loss: -5.319
+2019-02-13 17:57:30,262 [INFO]: #Epoch 375: Loss: 66.357, Recon Loss: 61.679, Cluster Loss: 10.017, Entropy Loss: -5.339
+2019-02-13 17:57:32,134 [INFO]: #Epoch 376: Loss: 66.413, Recon Loss: 61.712, Cluster Loss: 10.041, Entropy Loss: -5.340
+2019-02-13 17:57:34,012 [INFO]: #Epoch 377: Loss: 66.368, Recon Loss: 61.695, Cluster Loss: 10.026, Entropy Loss: -5.353
+2019-02-13 17:57:35,882 [INFO]: #Epoch 378: Loss: 66.346, Recon Loss: 61.665, Cluster Loss: 10.023, Entropy Loss: -5.342
+2019-02-13 17:57:37,720 [INFO]: #Epoch 379: Loss: 66.309, Recon Loss: 61.653, Cluster Loss: 10.014, Entropy Loss: -5.359
+2019-02-13 17:57:39,566 [INFO]: #Epoch 380: Loss: 66.407, Recon Loss: 61.731, Cluster Loss: 10.022, Entropy Loss: -5.346
+2019-02-13 17:57:39,641 [INFO]: acc: 0.83760, nmi: 0.77505
+2019-02-13 17:57:41,528 [INFO]: #Epoch 381: Loss: 66.301, Recon Loss: 61.630, Cluster Loss: 10.043, Entropy Loss: -5.373
+2019-02-13 17:57:43,408 [INFO]: #Epoch 382: Loss: 66.322, Recon Loss: 61.647, Cluster Loss: 10.032, Entropy Loss: -5.356
+2019-02-13 17:57:45,263 [INFO]: #Epoch 383: Loss: 66.284, Recon Loss: 61.602, Cluster Loss: 10.037, Entropy Loss: -5.356
+2019-02-13 17:57:47,105 [INFO]: #Epoch 384: Loss: 66.351, Recon Loss: 61.637, Cluster Loss: 10.034, Entropy Loss: -5.320
+2019-02-13 17:57:48,938 [INFO]: #Epoch 385: Loss: 66.369, Recon Loss: 61.703, Cluster Loss: 10.020, Entropy Loss: -5.354
+2019-02-13 17:57:50,776 [INFO]: #Epoch 386: Loss: 66.319, Recon Loss: 61.625, Cluster Loss: 10.034, Entropy Loss: -5.340
+2019-02-13 17:57:52,598 [INFO]: #Epoch 387: Loss: 66.286, Recon Loss: 61.614, Cluster Loss: 10.031, Entropy Loss: -5.360
+2019-02-13 17:57:54,433 [INFO]: #Epoch 388: Loss: 66.376, Recon Loss: 61.660, Cluster Loss: 10.038, Entropy Loss: -5.323
+2019-02-13 17:57:56,284 [INFO]: #Epoch 389: Loss: 66.376, Recon Loss: 61.681, Cluster Loss: 10.034, Entropy Loss: -5.339
+2019-02-13 17:57:58,156 [INFO]: #Epoch 390: Loss: 66.347, Recon Loss: 61.677, Cluster Loss: 10.026, Entropy Loss: -5.356
+2019-02-13 17:57:58,231 [INFO]: acc: 0.83830, nmi: 0.77434
+2019-02-13 17:58:00,120 [INFO]: #Epoch 391: Loss: 66.288, Recon Loss: 61.662, Cluster Loss: 10.026, Entropy Loss: -5.400
+2019-02-13 17:58:01,997 [INFO]: #Epoch 392: Loss: 66.319, Recon Loss: 61.652, Cluster Loss: 10.034, Entropy Loss: -5.366
+2019-02-13 17:58:03,853 [INFO]: #Epoch 393: Loss: 66.294, Recon Loss: 61.617, Cluster Loss: 10.027, Entropy Loss: -5.350
+2019-02-13 17:58:05,685 [INFO]: #Epoch 394: Loss: 66.311, Recon Loss: 61.660, Cluster Loss: 10.005, Entropy Loss: -5.354
+2019-02-13 17:58:07,533 [INFO]: #Epoch 395: Loss: 66.343, Recon Loss: 61.641, Cluster Loss: 10.038, Entropy Loss: -5.336
+2019-02-13 17:58:09,420 [INFO]: #Epoch 396: Loss: 66.355, Recon Loss: 61.677, Cluster Loss: 10.035, Entropy Loss: -5.357
+2019-02-13 17:58:11,259 [INFO]: #Epoch 397: Loss: 66.382, Recon Loss: 61.700, Cluster Loss: 10.025, Entropy Loss: -5.343
+2019-02-13 17:58:13,069 [INFO]: #Epoch 398: Loss: 66.282, Recon Loss: 61.613, Cluster Loss: 10.033, Entropy Loss: -5.364
+2019-02-13 17:58:14,861 [INFO]: #Epoch 399: Loss: 66.269, Recon Loss: 61.589, Cluster Loss: 10.025, Entropy Loss: -5.345
+2019-02-13 17:58:16,635 [INFO]: #Epoch 400: Loss: 66.259, Recon Loss: 61.611, Cluster Loss: 10.021, Entropy Loss: -5.373
+2019-02-13 17:58:16,709 [INFO]: acc: 0.83630, nmi: 0.77380
+2019-02-13 17:58:18,542 [INFO]: #Epoch 401: Loss: 66.274, Recon Loss: 61.611, Cluster Loss: 10.030, Entropy Loss: -5.368
+2019-02-13 17:58:20,415 [INFO]: #Epoch 402: Loss: 66.275, Recon Loss: 61.605, Cluster Loss: 10.026, Entropy Loss: -5.356
+2019-02-13 17:58:22,276 [INFO]: #Epoch 403: Loss: 66.273, Recon Loss: 61.621, Cluster Loss: 10.027, Entropy Loss: -5.375
+2019-02-13 17:58:24,126 [INFO]: #Epoch 404: Loss: 66.265, Recon Loss: 61.590, Cluster Loss: 10.032, Entropy Loss: -5.358
+2019-02-13 17:58:25,937 [INFO]: #Epoch 405: Loss: 66.241, Recon Loss: 61.584, Cluster Loss: 10.037, Entropy Loss: -5.380
+2019-02-13 17:58:27,757 [INFO]: #Epoch 406: Loss: 66.229, Recon Loss: 61.561, Cluster Loss: 10.038, Entropy Loss: -5.370
+2019-02-13 17:58:29,632 [INFO]: #Epoch 407: Loss: 66.358, Recon Loss: 61.658, Cluster Loss: 10.022, Entropy Loss: -5.323
+2019-02-13 17:58:31,513 [INFO]: #Epoch 408: Loss: 66.281, Recon Loss: 61.624, Cluster Loss: 10.024, Entropy Loss: -5.366
+2019-02-13 17:58:33,387 [INFO]: #Epoch 409: Loss: 66.263, Recon Loss: 61.592, Cluster Loss: 10.033, Entropy Loss: -5.362
+2019-02-13 17:58:35,234 [INFO]: #Epoch 410: Loss: 66.286, Recon Loss: 61.622, Cluster Loss: 10.021, Entropy Loss: -5.358
+2019-02-13 17:58:35,308 [INFO]: acc: 0.83930, nmi: 0.77672
+2019-02-13 17:58:37,131 [INFO]: #Epoch 411: Loss: 66.210, Recon Loss: 61.574, Cluster Loss: 10.035, Entropy Loss: -5.399
+2019-02-13 17:58:38,904 [INFO]: #Epoch 412: Loss: 66.292, Recon Loss: 61.624, Cluster Loss: 10.015, Entropy Loss: -5.347
+2019-02-13 17:58:40,744 [INFO]: #Epoch 413: Loss: 66.243, Recon Loss: 61.601, Cluster Loss: 10.031, Entropy Loss: -5.389
+2019-02-13 17:58:42,598 [INFO]: #Epoch 414: Loss: 66.290, Recon Loss: 61.617, Cluster Loss: 10.022, Entropy Loss: -5.349
+2019-02-13 17:58:44,523 [INFO]: #Epoch 415: Loss: 66.264, Recon Loss: 61.597, Cluster Loss: 10.039, Entropy Loss: -5.371
+2019-02-13 17:58:46,392 [INFO]: #Epoch 416: Loss: 66.266, Recon Loss: 61.591, Cluster Loss: 10.034, Entropy Loss: -5.359
+2019-02-13 17:58:48,226 [INFO]: #Epoch 417: Loss: 66.239, Recon Loss: 61.572, Cluster Loss: 10.040, Entropy Loss: -5.373
+2019-02-13 17:58:50,033 [INFO]: #Epoch 418: Loss: 66.231, Recon Loss: 61.587, Cluster Loss: 10.023, Entropy Loss: -5.379
+2019-02-13 17:58:51,828 [INFO]: #Epoch 419: Loss: 66.234, Recon Loss: 61.549, Cluster Loss: 10.028, Entropy Loss: -5.343
+2019-02-13 17:58:53,663 [INFO]: #Epoch 420: Loss: 66.286, Recon Loss: 61.590, Cluster Loss: 10.024, Entropy Loss: -5.328
+2019-02-13 17:58:53,744 [INFO]: acc: 0.83960, nmi: 0.77594
+2019-02-13 17:58:55,608 [INFO]: #Epoch 421: Loss: 66.271, Recon Loss: 61.586, Cluster Loss: 10.014, Entropy Loss: -5.330
+2019-02-13 17:58:57,475 [INFO]: #Epoch 422: Loss: 66.276, Recon Loss: 61.593, Cluster Loss: 10.035, Entropy Loss: -5.352
+2019-02-13 17:58:59,317 [INFO]: #Epoch 423: Loss: 66.274, Recon Loss: 61.603, Cluster Loss: 10.001, Entropy Loss: -5.330
+2019-02-13 17:59:01,116 [INFO]: #Epoch 424: Loss: 66.255, Recon Loss: 61.597, Cluster Loss: 10.037, Entropy Loss: -5.379
+2019-02-13 17:59:02,959 [INFO]: #Epoch 425: Loss: 66.248, Recon Loss: 61.560, Cluster Loss: 10.027, Entropy Loss: -5.339
+2019-02-13 17:59:04,782 [INFO]: #Epoch 426: Loss: 66.198, Recon Loss: 61.511, Cluster Loss: 10.021, Entropy Loss: -5.335
+2019-02-13 17:59:06,589 [INFO]: #Epoch 427: Loss: 66.203, Recon Loss: 61.540, Cluster Loss: 10.021, Entropy Loss: -5.358
+2019-02-13 17:59:08,400 [INFO]: #Epoch 428: Loss: 66.220, Recon Loss: 61.552, Cluster Loss: 10.029, Entropy Loss: -5.361
+2019-02-13 17:59:10,200 [INFO]: #Epoch 429: Loss: 66.242, Recon Loss: 61.558, Cluster Loss: 10.025, Entropy Loss: -5.341
+2019-02-13 17:59:12,013 [INFO]: #Epoch 430: Loss: 66.224, Recon Loss: 61.563, Cluster Loss: 10.023, Entropy Loss: -5.362
+2019-02-13 17:59:12,086 [INFO]: acc: 0.83810, nmi: 0.77260
+2019-02-13 17:59:13,905 [INFO]: #Epoch 431: Loss: 66.228, Recon Loss: 61.546, Cluster Loss: 10.017, Entropy Loss: -5.336
+2019-02-13 17:59:15,693 [INFO]: #Epoch 432: Loss: 66.224, Recon Loss: 61.528, Cluster Loss: 10.041, Entropy Loss: -5.345
+2019-02-13 17:59:17,567 [INFO]: #Epoch 433: Loss: 66.267, Recon Loss: 61.611, Cluster Loss: 10.031, Entropy Loss: -5.376
+2019-02-13 17:59:19,388 [INFO]: #Epoch 434: Loss: 66.237, Recon Loss: 61.547, Cluster Loss: 10.034, Entropy Loss: -5.345
+2019-02-13 17:59:21,249 [INFO]: #Epoch 435: Loss: 66.211, Recon Loss: 61.549, Cluster Loss: 10.025, Entropy Loss: -5.362
+2019-02-13 17:59:23,082 [INFO]: #Epoch 436: Loss: 66.214, Recon Loss: 61.543, Cluster Loss: 10.035, Entropy Loss: -5.365
+2019-02-13 17:59:24,920 [INFO]: #Epoch 437: Loss: 66.214, Recon Loss: 61.545, Cluster Loss: 10.035, Entropy Loss: -5.366
+2019-02-13 17:59:26,730 [INFO]: #Epoch 438: Loss: 66.226, Recon Loss: 61.593, Cluster Loss: 10.016, Entropy Loss: -5.383
+2019-02-13 17:59:28,543 [INFO]: #Epoch 439: Loss: 66.255, Recon Loss: 61.605, Cluster Loss: 10.026, Entropy Loss: -5.376
+2019-02-13 17:59:30,423 [INFO]: #Epoch 440: Loss: 66.219, Recon Loss: 61.561, Cluster Loss: 10.026, Entropy Loss: -5.368
+2019-02-13 17:59:30,494 [INFO]: acc: 0.83840, nmi: 0.77551
+2019-02-13 17:59:32,287 [INFO]: #Epoch 441: Loss: 66.213, Recon Loss: 61.553, Cluster Loss: 10.026, Entropy Loss: -5.366
+2019-02-13 17:59:34,117 [INFO]: #Epoch 442: Loss: 66.202, Recon Loss: 61.530, Cluster Loss: 10.025, Entropy Loss: -5.353
+2019-02-13 17:59:36,034 [INFO]: #Epoch 443: Loss: 66.234, Recon Loss: 61.566, Cluster Loss: 10.032, Entropy Loss: -5.363
+2019-02-13 17:59:37,922 [INFO]: #Epoch 444: Loss: 66.211, Recon Loss: 61.519, Cluster Loss: 10.030, Entropy Loss: -5.338
+2019-02-13 17:59:39,753 [INFO]: #Epoch 445: Loss: 66.176, Recon Loss: 61.513, Cluster Loss: 10.033, Entropy Loss: -5.370
+2019-02-13 17:59:41,598 [INFO]: #Epoch 446: Loss: 66.177, Recon Loss: 61.515, Cluster Loss: 10.027, Entropy Loss: -5.365
+2019-02-13 17:59:43,481 [INFO]: #Epoch 447: Loss: 66.169, Recon Loss: 61.506, Cluster Loss: 10.023, Entropy Loss: -5.361
+2019-02-13 17:59:45,288 [INFO]: #Epoch 448: Loss: 66.145, Recon Loss: 61.474, Cluster Loss: 10.029, Entropy Loss: -5.358
+2019-02-13 17:59:47,183 [INFO]: #Epoch 449: Loss: 66.158, Recon Loss: 61.531, Cluster Loss: 10.023, Entropy Loss: -5.395
+2019-02-13 17:59:48,996 [INFO]: #Epoch 450: Loss: 66.188, Recon Loss: 61.545, Cluster Loss: 10.016, Entropy Loss: -5.372
+2019-02-13 17:59:49,075 [INFO]: acc: 0.83900, nmi: 0.77862
+2019-02-13 17:59:50,965 [INFO]: #Epoch 451: Loss: 66.213, Recon Loss: 61.530, Cluster Loss: 10.039, Entropy Loss: -5.356
+2019-02-13 17:59:52,969 [INFO]: #Epoch 452: Loss: 66.206, Recon Loss: 61.522, Cluster Loss: 10.024, Entropy Loss: -5.339
+2019-02-13 17:59:54,757 [INFO]: #Epoch 453: Loss: 66.149, Recon Loss: 61.504, Cluster Loss: 10.027, Entropy Loss: -5.382
+2019-02-13 17:59:56,574 [INFO]: #Epoch 454: Loss: 66.164, Recon Loss: 61.511, Cluster Loss: 10.017, Entropy Loss: -5.364
+2019-02-13 17:59:58,426 [INFO]: #Epoch 455: Loss: 66.200, Recon Loss: 61.521, Cluster Loss: 10.020, Entropy Loss: -5.342
+2019-02-13 18:00:00,232 [INFO]: #Epoch 456: Loss: 66.246, Recon Loss: 61.547, Cluster Loss: 10.025, Entropy Loss: -5.326
+2019-02-13 18:00:02,038 [INFO]: #Epoch 457: Loss: 66.200, Recon Loss: 61.545, Cluster Loss: 10.012, Entropy Loss: -5.356
+2019-02-13 18:00:03,849 [INFO]: #Epoch 458: Loss: 66.181, Recon Loss: 61.518, Cluster Loss: 10.031, Entropy Loss: -5.369
+2019-02-13 18:00:05,664 [INFO]: #Epoch 459: Loss: 66.170, Recon Loss: 61.488, Cluster Loss: 10.021, Entropy Loss: -5.339
+2019-02-13 18:00:07,507 [INFO]: #Epoch 460: Loss: 66.192, Recon Loss: 61.497, Cluster Loss: 10.035, Entropy Loss: -5.340
+2019-02-13 18:00:07,578 [INFO]: acc: 0.84000, nmi: 0.77599
+2019-02-13 18:00:09,395 [INFO]: #Epoch 461: Loss: 66.140, Recon Loss: 61.460, Cluster Loss: 10.014, Entropy Loss: -5.335
+2019-02-13 18:00:11,207 [INFO]: #Epoch 462: Loss: 66.151, Recon Loss: 61.476, Cluster Loss: 10.032, Entropy Loss: -5.357
+2019-02-13 18:00:13,026 [INFO]: #Epoch 463: Loss: 66.194, Recon Loss: 61.518, Cluster Loss: 10.029, Entropy Loss: -5.353
+2019-02-13 18:00:14,808 [INFO]: #Epoch 464: Loss: 66.138, Recon Loss: 61.459, Cluster Loss: 10.026, Entropy Loss: -5.347
+2019-02-13 18:00:16,625 [INFO]: #Epoch 465: Loss: 66.114, Recon Loss: 61.444, Cluster Loss: 10.022, Entropy Loss: -5.352
+2019-02-13 18:00:18,465 [INFO]: #Epoch 466: Loss: 66.186, Recon Loss: 61.510, Cluster Loss: 10.040, Entropy Loss: -5.365
+2019-02-13 18:00:20,345 [INFO]: #Epoch 467: Loss: 66.144, Recon Loss: 61.472, Cluster Loss: 10.021, Entropy Loss: -5.348
+2019-02-13 18:00:22,211 [INFO]: #Epoch 468: Loss: 66.158, Recon Loss: 61.496, Cluster Loss: 10.027, Entropy Loss: -5.365
+2019-02-13 18:00:24,196 [INFO]: #Epoch 469: Loss: 66.240, Recon Loss: 61.561, Cluster Loss: 10.018, Entropy Loss: -5.339
+2019-02-13 18:00:26,061 [INFO]: #Epoch 470: Loss: 66.185, Recon Loss: 61.504, Cluster Loss: 10.032, Entropy Loss: -5.351
+2019-02-13 18:00:26,134 [INFO]: acc: 0.83880, nmi: 0.77753
+2019-02-13 18:00:27,985 [INFO]: #Epoch 471: Loss: 66.117, Recon Loss: 61.460, Cluster Loss: 10.026, Entropy Loss: -5.368
+2019-02-13 18:00:29,818 [INFO]: #Epoch 472: Loss: 66.144, Recon Loss: 61.468, Cluster Loss: 10.021, Entropy Loss: -5.345
+2019-02-13 18:00:31,622 [INFO]: #Epoch 473: Loss: 66.144, Recon Loss: 61.494, Cluster Loss: 10.036, Entropy Loss: -5.387
+2019-02-13 18:00:33,422 [INFO]: #Epoch 474: Loss: 66.151, Recon Loss: 61.481, Cluster Loss: 10.030, Entropy Loss: -5.360
+2019-02-13 18:00:35,208 [INFO]: #Epoch 475: Loss: 66.152, Recon Loss: 61.477, Cluster Loss: 10.023, Entropy Loss: -5.347
+2019-02-13 18:00:37,013 [INFO]: #Epoch 476: Loss: 66.141, Recon Loss: 61.481, Cluster Loss: 10.021, Entropy Loss: -5.361
+2019-02-13 18:00:38,809 [INFO]: #Epoch 477: Loss: 66.090, Recon Loss: 61.439, Cluster Loss: 10.015, Entropy Loss: -5.364
+2019-02-13 18:00:40,619 [INFO]: #Epoch 478: Loss: 66.079, Recon Loss: 61.425, Cluster Loss: 10.034, Entropy Loss: -5.379
+2019-02-13 18:00:42,472 [INFO]: #Epoch 479: Loss: 66.102, Recon Loss: 61.458, Cluster Loss: 10.030, Entropy Loss: -5.386
+2019-02-13 18:00:44,288 [INFO]: #Epoch 480: Loss: 66.204, Recon Loss: 61.524, Cluster Loss: 10.004, Entropy Loss: -5.325
+2019-02-13 18:00:44,377 [INFO]: acc: 0.83950, nmi: 0.77926
+2019-02-13 18:00:46,221 [INFO]: #Epoch 481: Loss: 66.170, Recon Loss: 61.454, Cluster Loss: 10.030, Entropy Loss: -5.315
+2019-02-13 18:00:48,030 [INFO]: #Epoch 482: Loss: 66.168, Recon Loss: 61.491, Cluster Loss: 10.028, Entropy Loss: -5.351
+2019-02-13 18:00:49,848 [INFO]: #Epoch 483: Loss: 66.151, Recon Loss: 61.494, Cluster Loss: 10.015, Entropy Loss: -5.358
+2019-02-13 18:00:51,646 [INFO]: #Epoch 484: Loss: 66.137, Recon Loss: 61.461, Cluster Loss: 10.034, Entropy Loss: -5.358
+2019-02-13 18:00:53,527 [INFO]: #Epoch 485: Loss: 66.133, Recon Loss: 61.491, Cluster Loss: 10.022, Entropy Loss: -5.380
+2019-02-13 18:00:55,422 [INFO]: #Epoch 486: Loss: 66.087, Recon Loss: 61.421, Cluster Loss: 10.018, Entropy Loss: -5.352
+2019-02-13 18:00:57,291 [INFO]: #Epoch 487: Loss: 66.077, Recon Loss: 61.407, Cluster Loss: 10.025, Entropy Loss: -5.355
+2019-02-13 18:00:59,156 [INFO]: #Epoch 488: Loss: 66.045, Recon Loss: 61.397, Cluster Loss: 10.021, Entropy Loss: -5.373
+2019-02-13 18:01:01,046 [INFO]: #Epoch 489: Loss: 66.138, Recon Loss: 61.492, Cluster Loss: 10.021, Entropy Loss: -5.375
+2019-02-13 18:01:02,844 [INFO]: #Epoch 490: Loss: 66.136, Recon Loss: 61.471, Cluster Loss: 10.029, Entropy Loss: -5.364
+2019-02-13 18:01:02,918 [INFO]: acc: 0.83680, nmi: 0.77540
+2019-02-13 18:01:04,711 [INFO]: #Epoch 491: Loss: 66.132, Recon Loss: 61.465, Cluster Loss: 10.035, Entropy Loss: -5.368
+2019-02-13 18:01:06,540 [INFO]: #Epoch 492: Loss: 66.089, Recon Loss: 61.427, Cluster Loss: 10.020, Entropy Loss: -5.358
+2019-02-13 18:01:08,437 [INFO]: #Epoch 493: Loss: 66.094, Recon Loss: 61.446, Cluster Loss: 10.014, Entropy Loss: -5.365
+2019-02-13 18:01:10,308 [INFO]: #Epoch 494: Loss: 66.109, Recon Loss: 61.440, Cluster Loss: 10.024, Entropy Loss: -5.355
+2019-02-13 18:01:12,150 [INFO]: #Epoch 495: Loss: 66.128, Recon Loss: 61.436, Cluster Loss: 10.011, Entropy Loss: -5.319
+2019-02-13 18:01:14,063 [INFO]: #Epoch 496: Loss: 66.067, Recon Loss: 61.448, Cluster Loss: 10.015, Entropy Loss: -5.396
+2019-02-13 18:01:15,927 [INFO]: #Epoch 497: Loss: 66.098, Recon Loss: 61.449, Cluster Loss: 10.027, Entropy Loss: -5.377
+2019-02-13 18:01:17,910 [INFO]: #Epoch 498: Loss: 66.082, Recon Loss: 61.417, Cluster Loss: 10.014, Entropy Loss: -5.349
+2019-02-13 18:01:19,921 [INFO]: #Epoch 499: Loss: 66.107, Recon Loss: 61.449, Cluster Loss: 10.030, Entropy Loss: -5.372
+2019-02-13 18:01:21,809 [INFO]: #Epoch 500: Loss: 66.105, Recon Loss: 61.434, Cluster Loss: 10.021, Entropy Loss: -5.350
+2019-02-13 18:01:21,883 [INFO]: acc: 0.83930, nmi: 0.77623
