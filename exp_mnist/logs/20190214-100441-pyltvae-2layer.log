@@ -4,3 +4,16 @@
 2019-02-14 10:06:55,875 [INFO]: #Epoch   0: Train Loss: 89.14574, dataloglikelihood: 62.14265, zloglikelihood: 28.68923, qentropy: -1.68616
 2019-02-14 10:08:56,199 [INFO]: #Epoch   1: Train Loss: 89.10374, dataloglikelihood: 62.19403, zloglikelihood: 28.85039, qentropy: -1.94062
 2019-02-14 10:10:55,948 [INFO]: #Epoch   2: Train Loss: 89.03975, dataloglikelihood: 62.14664, zloglikelihood: 28.96560, qentropy: -2.07247
+2019-02-14 10:12:57,675 [INFO]: #Epoch   3: Train Loss: 89.03469, dataloglikelihood: 62.16019, zloglikelihood: 29.06457, qentropy: -2.19004
+2019-02-14 10:14:58,452 [INFO]: #Epoch   4: Train Loss: 88.94372, dataloglikelihood: 62.13577, zloglikelihood: 29.12204, qentropy: -2.31411
+2019-02-14 10:17:00,391 [INFO]: #Epoch   5: Train Loss: 88.98732, dataloglikelihood: 62.16283, zloglikelihood: 29.19210, qentropy: -2.36766
+2019-02-14 10:19:02,217 [INFO]: #Epoch   6: Train Loss: 88.94164, dataloglikelihood: 62.15483, zloglikelihood: 29.26128, qentropy: -2.47445
+2019-02-14 10:21:05,086 [INFO]: #Epoch   7: Train Loss: 88.97517, dataloglikelihood: 62.20388, zloglikelihood: 29.30006, qentropy: -2.52879
+2019-02-14 10:23:06,460 [INFO]: #Epoch   8: Train Loss: 88.82101, dataloglikelihood: 62.07944, zloglikelihood: 29.36429, qentropy: -2.62274
+2019-02-14 10:25:07,315 [INFO]: #Epoch   9: Train Loss: 88.88477, dataloglikelihood: 62.15411, zloglikelihood: 29.38439, qentropy: -2.65369
+2019-02-14 10:25:33,072 [INFO]: Valid Loss: 78.82535, dataloglikelihood: 53.77257, zloglikelihood: 27.81874, qentropy: -2.76600
+2019-02-14 10:25:33,095 [INFO]: Facet 0 # cluster: 10, acc: 0.78333, nmi: 0.65215
+2019-02-14 10:25:33,097 [INFO]: Overall Epoch #1
+2019-02-14 10:25:33,097 [INFO]: Encoding data...
+2019-02-14 10:25:34,143 [INFO]: Save encoding to arff...
+2019-02-14 10:25:34,272 [INFO]: Learn latent tree structure...
