@@ -1,4 +1,0 @@
-2019-02-13 15:10:01,237 [INFO]: =====Initialize Gaussian Mixtures=======
-2019-02-13 15:10:06,125 [INFO]: Averaged loglikelihood: -44.982653, n_iter: 4
-2019-02-13 15:10:06,185 [INFO]: acc: 0.63083, nmi: 0.61874
-2019-02-13 15:10:06,220 [INFO]: =====Finetuning=======
