@@ -74,4 +74,6 @@ For example, an LTVAE model is provided under `saved_model/`. To evaluate the qu
 python evaluate_cluster_pyltvae-2layer.py --model saved_model/ltvae-2layer-finetune.pt --ltmodel saved_model/mnist-plt-2layer-finetune.bif
 ```
 
+## Remarks
 
+Part of experiments in the paper are conducted using structure searching strategy with state search operator (cardinality searching) and node combination operator (pouching and unpouching). The current code can be readily revised with such flexibility. TO BE UPDATED.
