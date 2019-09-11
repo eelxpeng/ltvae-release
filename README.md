@@ -18,6 +18,8 @@ Xiaopeng Li, Zhourong Chen, Leonard K.M. Poon and Nevin L. Zhang. Learning Laten
 
 * pyjnius >= 1.1.1
 
+* lark-parser
+
 ## Project Folder Structure
 
 This project is built upon two other projects: [PLTM-EAST](https://github.com/kmpoon/pltm-east) and [pyLTM](https://github.com/eelxpeng/pyLTM).
